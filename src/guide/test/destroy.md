@@ -19,7 +19,7 @@ Let's destroy your data!
 ## Method 2
 
 1. Install ransomware of choice. Or download and install from:
-  [https://github.com/safai-labs/Python-Ransomware](https://github.com/safai-labs/Python-Ransomware)
+  [{{#include ../../includes.md:ransomware-url}}]({{#include ../../includes.md:ransomware-url}})
 
     > Procuring ransomware can be dangerous, only use trusted sources!
 

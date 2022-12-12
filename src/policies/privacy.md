@@ -4,7 +4,7 @@ sāf.ai's second founding principle is that data privacy is a fundamental
 right. This privacy policy is a part of our commitment to data privacy.
 This policy outlines the nature of the data that we collect, what we do
 with that data, and how we protect that data for our website:
-https/sāf.ai, our social media sites, and social networking sites.
+<https://saf.ai>, our social media sites, and social networking sites.
 
 ## What data do we collect?
 
@@ -30,11 +30,11 @@ requested or to respond to your message.
 
 We may use this information in the following ways:
 
--   To improve and deliver the type of content and product offerings
+- To improve and deliver the type of content and product offerings
     which would most interest and serve you.
--   To allow us to better respond to your requests and inquiries.
--   To administer a contect, promotion, survey, or other site feature.
--   To send periodic emails regarding your requests, inquiries, or other
+- To allow us to better respond to your requests and inquiries.
+- To administer a contect, promotion, survey, or other site feature.
+- To send periodic emails regarding your requests, inquiries, or other
     products and services.
 
 ## What about "cookies"?

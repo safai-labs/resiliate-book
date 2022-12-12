@@ -14,5 +14,4 @@
 - [Data Processing Agreement](dpa.md)
 - [Acceptable Use Policies](aup.md)
 - [Slavery Statement](slavery-statement.md)
-
 - [sāf.ai Partnership Program](var-partner.md)

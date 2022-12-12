@@ -8,19 +8,19 @@ Cut and paste the URL for your flavor of Linux Distribution into a
 ### Ubuntu 22.04 LTS Server
 
 ``` bash
-curl -s https://saf.ai/downloads/stable/ubuntu-22.04/cefs-init.sh | sudo bash
+curl -s {{#include ../../includes.md:cefs-ubuntu-2204-url}} | sudo bash
 ```
 
 ### Red Hat Enterprise Linux 8 // CentOS 8 Server
 
 ``` bash
-curl -s https://saf.ai/downloads/beta/el8/cefs-1.0.8-beta-el8-installer.sh | sudo bash
+curl -s {{#include ../../includes.md:cefs-rhel8-url}} | sudo bash
 ```
 
 ### Ubuntu 20.04 LTS Server
 
 ``` bash
-curl -s https://saf.ai/downloads/stable/ubuntu-20.04/cefs-init.sh | sudo bash
+curl -s {{#include ../../includes.md:cefs-ubuntu-2004-url}} | sudo bash
 ```
 
 ### This should look something like the following

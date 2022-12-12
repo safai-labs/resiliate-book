@@ -1,11 +1,5 @@
-```{=html}
-<div class="legal-block">
-```
 # sāf.ai - Partnership Program
 
-```{=latex}
-\pagebreak
-```
 These Partner Program Terms and Conditions (\"Terms\"), any accompanying
 or future Addendum (as defined below) or similar agreement you enter
 into with sāf.ai, Inc. (\"sāf.ai\") issued under this PPA, and the
@@ -27,42 +21,42 @@ you first access or use the Partner Portal.
 By signing or otherwise accepting this PPA, the parties hereby agree as
 follows:
 
-1.  Definitions
+1. Definitions
 
     As used in this PPA, the following terms, whether used in the
     singular or plural, shall have the following meanings:
 
-    1.  \"Addendum\" means any addendum identified on the cover page or
+    1. \"Addendum\" means any addendum identified on the cover page or
         later entered into between the parties relating to a Program
         Type.
-    2.  \"Affiliate\" means a company controlled by, controlling, or
+    2. \"Affiliate\" means a company controlled by, controlling, or
         under common control, directly or indirectly, through one or
         more intermediaries, one of the parties to this PPA or a third
         party, according to context.
-    3.  \"API Terms of Service\" means the terms of service governing
+    3. \"API Terms of Service\" means the terms of service governing
         the use of sāf.ai application programming interfaces (the
         \"sāf.ai APIs\") available (a) as of the Effective Date, in the
         applicable Addendum, and (b) after notice by sāf.ai, at
         <https://docs.saf.ai/policies/terms-of-service>, as updated by
         sāf.ai from time to time.
-    4.  \"Applicable Data Protection Law\" means all worldwide data
+    4. \"Applicable Data Protection Law\" means all worldwide data
         protection and privacy laws and regulations applicable to the
         Personal Data in question, including, where applicable, EU Data
         Protection Law.
-    5.  \"Authorized Locations\" means, unless specified otherwise in an
+    5. \"Authorized Locations\" means, unless specified otherwise in an
         Addendum, the world, other than those countries to which export
         of software is restricted by applicable law (as of the Effective
         Date, Crimea Region of Ukraine, Cuba, Iran, North Korea, Syria).
-    6.  \"Close Family Member\" means a spouse, an individual\'s and a
+    6. \"Close Family Member\" means a spouse, an individual\'s and a
         spouse\'s grandparents, parents, siblings, children, nieces,
         nephews, aunts, uncles, first cousins, the spouse of any of
         these people, or any other individuals who share the same
         household.
-    7.  \"Contact Data\" means any Personal Data regarding the personnel
+    7. \"Contact Data\" means any Personal Data regarding the personnel
         of Partner or Partner\'s Customers.
-    8.  \"Customer\" means the end customer of Partner or sāf.ai,
+    8. \"Customer\" means the end customer of Partner or sāf.ai,
         according to context.
-    9.  \"Customer Data\" means, (a) with respect to the sāf.ai Platform
+    9. \"Customer Data\" means, (a) with respect to the sāf.ai Platform
         Services, data and information input or submitted by Partner,
         Customer or either\'s users into the sāf.ai Platform Services or
         otherwise made accessible to sāf.ai by Partner or Customer under
@@ -300,41 +294,44 @@ follows:
     59. \"Third Party Software Vendor Platforms Accounts\" means the
         sāf.ai Platform Services accounts, whether provided
 
-2.  Partner Program
+2. Partner Program
 
-    1.  Enrollment. To participate in the Partner Program, Partner must
+    1. Enrollment. To participate in the Partner Program, Partner must
         be enrolled in at least one Program Type at all times. In order
         to enroll in a Program Type, Partner must meet any applicable
         Participation Requirements. Partner may only change its
         participation with the written agreement of sāf.ai or by such
         other means as sāf.ai makes available in its sole discretion.
-    2.  Program Types. In addition to these Terms, each party shall have
+    2. Program Types. In addition to these Terms, each party shall have
         the responsibilities and obligations set forth in the applicable
         Program Type Addendum.
-    3.  Program Benefits and Partner Tiers. Certain Program Types
+    3. Program Benefits and Partner Tiers. Certain Program Types
         provide certain benefits to the Partner, as set forth in the
         applicable Program Type and Partner Tier documentation.
-    4.  Fees.
+    4. Fees.
+
         a.  Program Fees. Participation in the Partner Program,
             including access to specific Partner Tiers and Partner
             Benefits may be subject to the payment of Program Fees, as
             described in an applicable Addendum. Except for as set forth
             in Section 11.3, payment obligations and non-cancelable and
             Program Fees paid are non-refundable.
+
         b.  Services Fees. Services Fees, if any, are described in the
             applicable Addendum. Unless otherwise provided in an Order
             Form or an applicable Addendum, payment obligations are
             non-cancelable and Services Fees paid are non-refundable.
+
         c.  Referral Fees. Referral Fees, if any, are described in the
             applicable Addendum.
 
-3.  Partner Portal
+3. Partner Portal
 
-    1.  Partner Portal. sāf.ai may provide Partner with access to the
+    1. Partner Portal. sāf.ai may provide Partner with access to the
         Partner Portal. Should sāf.ai provide such access, Partner\'s
         right to access and use the Partner Portal shall be subject to
         the terms of this PPA.
-    2.  Users. Partner may select individuals (Partner employees or
+    2. Users. Partner may select individuals (Partner employees or
         agents) to access and use the Partner Portal and will obtain
         separate credentials (user IDs and passwords) for such
         individuals (each a \"Portal User\"). Subject to these
@@ -349,7 +346,7 @@ follows:
         (and will instruct each Portal User not to share) such
         credentials with any other person or entity or otherwise permit
         any other person or entity to access or use the Partner Portal.
-    3.  Marketing; Data Collection. By agreeing to this PPA, Partner
+    3. Marketing; Data Collection. By agreeing to this PPA, Partner
         consents to receive sāf.ai marketing communications on its
         behalf and on behalf of any users it adds to its account through
         the Partner Portal. Partner represents to sāf.ai that is has any
@@ -358,7 +355,7 @@ follows:
         sāf.ai Privacy Policy, collect and use certain information
         relating to such marketing or Partner\'s use of the Partner
         Portal or sāf.ai Offerings.
-    4.  Lead Sharing. Partner represents and warrants, with respect to
+    4. Lead Sharing. Partner represents and warrants, with respect to
         any Contact Data that it enters into the Partner Portal or
         otherwise makes available to sāf.ai that has all necessary
         consents or sufficient legal basis in order to provide such
@@ -369,9 +366,9 @@ follows:
         Data, enabling sāf.ai to communicate with such personnel
         regarding the arrangement contemplated by this PPA.
 
-4.  Provisions Applicable to all Addenda
+4. Provisions Applicable to all Addenda
 
-    1.  Use of sāf.ai Offerings. Unless specified in an applicable
+    1. Use of sāf.ai Offerings. Unless specified in an applicable
         Addendum or Order Form, this PPA does not grant Partner the
         right to use sāf.ai Offerings. Partner acknowledges and agrees
         that any use of the sāf.ai Offerings by Partner in connection
@@ -383,7 +380,7 @@ follows:
         in Partner Platform Accounts, and for its and any of its Partner
         Platform Account users\' compliance with this PPA, the TOS, and
         the Documentation.
-    2.  Order of Precedence. If there is any conflict between the terms
+    2. Order of Precedence. If there is any conflict between the terms
         and conditions of any documents relating to the Partner Program,
         to the extent their terms cannot be reconciled, any conflict
         will be resolved in the following order of precedence: (a) an
@@ -394,11 +391,11 @@ follows:
         respect to the matters to which it relates; (c) the Program
         Policies, solely with respect to the matters to which they
         relate; and (d) the PPA.
-    3.  Intellectual Property.
-        1.  No Joint Development. The parties do not intend to jointly
+    3. Intellectual Property.
+        1. No Joint Development. The parties do not intend to jointly
             develop or jointly create Intellectual Property under this
             PPA.
-        2.  Ownership. Subject to the limited licenses and rights set
+        2. Ownership. Subject to the limited licenses and rights set
             forth in this PPA, nothing in this PPA grants either Party
             any interest in or to any of the other Party\'s Intellectual
             Property Rights or other proprietary rights. For the
@@ -413,9 +410,9 @@ follows:
             Rights notices of sāf.ai and its licensors that may appear
             on or within the sāf.ai Offerings as made available to
             Partner
-        3.  sāf.ai Materials License. Partner shall have the rights in
+        3. sāf.ai Materials License. Partner shall have the rights in
             the sāf.ai Materials set forth in the applicable Addendum.
-        4.  sāf.ai Trademark License. Subject to Partner\'s compliance
+        4. sāf.ai Trademark License. Subject to Partner\'s compliance
             with the terms and conditions of this PPA, the sāf.ai Brand
             Guidelines, the applicable Addendum, and the Program
             Policies, sāf.ai hereby grants to Partner a royalty-free,
@@ -449,7 +446,7 @@ follows:
             effective promptly, provided that no such withdrawal will
             require the recall of any previously published or
             distributed materials that cannot reasonably be recalled.
-        5.  Partner Trademark License. Partner grants sāf.ai a
+        5. Partner Trademark License. Partner grants sāf.ai a
             royalty-free, non-exclusive, non-transferable,
             non-sublicensable, non-assignable license during the Term to
             use, solely for the purpose of identifying and promoting
@@ -467,25 +464,29 @@ follows:
             Section 12.5 (Notice) below, provided that no such
             withdrawal will require the recall of any previously
             published or distributed materials.
-        6.  Additional Restrictions. Without affecting any other
+        6. Additional Restrictions. Without affecting any other
             restrictions set forth in the sāf.ai Terms of Service and
             this PPA, Partner\'s use of any Program Benefits, including
             sāf.ai IP provided to Partner hereunder, is subject to the
             additional restrictions set forth below. Partner may not,
             unless expressly authorized in an Addendum:
+
             a.  Remove or modify any program markings or any notice of
                 sāf.ai or sāf.ai\'s licensors\' proprietary rights;
+
             b.  Use sāf.ai IP in a manner that misrepresents Partner\'s
                 relationship with sāf.ai or is otherwise misleading or
                 that reflects negatively on sāf.ai;
+
             c.  Modify in any way any sāf.ai Offerings or sāf.ai Marks
                 (e.g., by inserting Partner\'s company or brand name
                 inside sāf.ai logo or otherwise white-labeling or
                 co-branding sāf.ai Offerings); or
+
             d.  Use or duplicate sāf.ai IP provided to Partner for any
                 purpose other than as specified in this PPA or make
                 sāf.ai IP available to unauthorized third parties.
-        7.  Feedback. Partner is under no duty to provide any
+        7. Feedback. Partner is under no duty to provide any
             suggestions, enhancement requests, or other feedback
             regarding the sāf.ai Offerings (\"Feedback\"). If Partner
             offers Feedback to sāf.ai, Partner hereby grants sāf.ai a
@@ -493,7 +494,7 @@ follows:
             fully-paid, sub-licensable, assignable license to
             incorporate into the sāf.ai Offerings or otherwise use any
             Feedback sāf.ai receives from Partner.
-        8.  Prohibition on Competitive Use. Notwithstanding anything to
+        8. Prohibition on Competitive Use. Notwithstanding anything to
             the contrary in this PPA or any Addendum, Partner may not
             use any of the sāf.ai Offerings to develop, offer or make
             available a product or service to any third party that could
@@ -504,12 +505,12 @@ follows:
             requires a customer to have an account with sāf.ai for the
             use of sāf.ai Offerings; or (b) utilizes sāf.ai Offerings
             and for which Partner compensates sāf.ai under this PPA.
-    4.  Security and Safety Policies. Partner\'s personnel must at all
+    4. Security and Safety Policies. Partner\'s personnel must at all
         times observe the security and safety policies of sāf.ai when on
         sāf.ai property and/or any security and safety policies of
         sāf.ai\'s customers that sāf.ai provides from time to time, when
         and if Partner is on such customers\' property.
-    5.  Compliance with Applicable Laws. Each party shall comply, and
+    5. Compliance with Applicable Laws. Each party shall comply, and
         shall procure that any third parties performing activities on
         party\'s behalf related to this PPA (including without
         limitation sales and referral activities) comply, with all
@@ -534,12 +535,12 @@ follows:
         shall be deemed to be Partner\'s Confidential Information under
         this Agreement. Such inspection may include interviews of
         relevant Partner personnel.
-    6.  No Affiliation with Government Officials. Partner represents and
+    6. No Affiliation with Government Officials. Partner represents and
         warrants that no director, employee, direct or indirect owner,
         representative, consultant or agent who is or will be involved
         in Partner\'s activities under this PPA, is a Government
         Official.
-    7.  Periodic Anti-Bribery Certification. Partner agrees that Partner
+    7. Periodic Anti-Bribery Certification. Partner agrees that Partner
         will periodically, but no more frequently than once per year
         unless sāf.ai has a reasonable suspicion that Partner has
         violated Section 4.5 or 4.6, at sāf.ai\'s request, complete
@@ -552,7 +553,7 @@ follows:
         anything else of value, directly or indirectly, to or for the
         benefit of any Government Official, to obtain or retain
         business, or secure any improper advantage.
-    8.  No Guarantees or Representations. Partner shall not make any
+    8. No Guarantees or Representations. Partner shall not make any
         warranties or guarantees concerning the sāf.ai Offerings, or any
         indemnities on behalf of sāf.ai or on its own behalf relating to
         the provision of the sāf.ai Offerings, and any representations
@@ -564,7 +565,7 @@ follows:
         for any obligation beyond those obligations specifically
         undertaken by sāf.ai in a subscription agreement between sāf.ai
         and a Customer.
-    9.  Non-Exclusive Arrangement. For the avoidance of doubt, and
+    9. Non-Exclusive Arrangement. For the avoidance of doubt, and
         notwithstanding anything else in this PPA or any Addendum, this
         PPA is a non-exclusive arrangement, and neither party shall be
         prevented from pursuing other work or opportunities, including
@@ -573,18 +574,18 @@ follows:
         without limitation provisions governing confidentiality and
         intellectual property) in pursuing such opportunity.
 
-5.  Partner Obligations; Support; Training; Other Services
+5. Partner Obligations; Support; Training; Other Services
 
-    1.  Generally. Partner\'s personnel who are involved in Partner\'s
+    1. Generally. Partner\'s personnel who are involved in Partner\'s
         activities under this PPA must be generally knowledgeable about
         sāf.ai and the sāf.ai Offerings and their functionality prior to
         engaging with any Customer in the activities contemplated
         hereunder.
-    2.  Marketing. Each party shall have the marketing obligations, if
+    2. Marketing. Each party shall have the marketing obligations, if
         any, set forth in an applicable Addendum.
-    3.  Support. The parties shall each be obligated to perform the
+    3. Support. The parties shall each be obligated to perform the
         Support services specified in an applicable Addendum.
-    4.  Partner Identification. Subject to compliance with the terms of
+    4. Partner Identification. Subject to compliance with the terms of
         this PPA, Partner may refer to itself as a \"sāf.ai Partner\"
         (or in such other manner as described in an Addendum) solely
         with respect to the products or services, if any, set forth in
@@ -600,11 +601,11 @@ follows:
         personnel as \"accredited\", \"certified\"; or other term
         following the successful completion of such course, subject to
         any requirements set forth in such course.
-    5.  Training by sāf.ai. sāf.ai may, in its sole discretion offer
+    5. Training by sāf.ai. sāf.ai may, in its sole discretion offer
         Training for Partner personnel on the use of sāf.ai Offerings.
         Whether Training is offered for free, at a discount, or at full
         price depends on Partner Tier and Partner Benefits.
-    6.  Business Practices. Partner will: (i) conduct business in a
+    6. Business Practices. Partner will: (i) conduct business in a
         manner that reflects favorably at all times on the sāf.ai
         Offerings and the good name, goodwill and reputation of
         sāf.ai; (ii) make no false or misleading representations with
@@ -614,27 +615,27 @@ follows:
         Offerings that are inconsistent with the literature distributed
         by sāf.ai.
 
-6.  Payment; Reporting
+6. Payment; Reporting
 
-    1.  Currency. All payments under this PPA shall be made in United
+    1. Currency. All payments under this PPA shall be made in United
         States Dollars (US\$).
-    2.  Wire Transfer Fees. Partner may request Referral Fees under the
+    2. Wire Transfer Fees. Partner may request Referral Fees under the
         PPA be made by wire transfer if it and its bank accounts are
         located outside of the United States. Any wire transfer fees
         owed by the party receiving a wire transfer shall be borne by
         the receiving party; any wire transfer fees owed by the party
         sending a wire transfer shall be borne by the sending party.
-    3.  Exchange Rates. If any fees under an applicable Addendum are
+    3. Exchange Rates. If any fees under an applicable Addendum are
         calculated on the basis of revenue that is paid other than in US
         Dollars (\$US), the amounts owed shall be calculated on the
         basis of the exchange rates published on
         <http://www.x-rates.com/historical/> on the last day of the
         engagement (or the last day of the month, for ongoing
         engagements paid on a monthly basis) (\"Exchange Rate\").
-    4.  Expenses. Each party shall cover their own expenses unless
+    4. Expenses. Each party shall cover their own expenses unless
         otherwise specified in an Addendum in which case any such
         expenses shall be appropriately documented.
-    5.  Taxes. Partner acknowledges and agrees that it is Partner\'s
+    5. Taxes. Partner acknowledges and agrees that it is Partner\'s
         sole responsibility to pay all applicable Taxes owed, including
         with respect to any Taxes owed to Partner\'s personnel. Partner
         will indemnify sāf.ai and hold sāf.ai harmless to the extent of
@@ -642,7 +643,7 @@ follows:
         in connection with any payments made by sāf.ai to Partner under
         this PPA on account of Partner\'s or Partner\'s agents or
         employees.
-    6.  Audit; Reporting. No more than once in any 12-month period
+    6. Audit; Reporting. No more than once in any 12-month period
         during the Term, and once following the date of termination or
         expiration of this PPA, sāf.ai at its own expense may audit the
         Partner\'s records for the sole purpose of (i) confirming the
@@ -667,9 +668,9 @@ follows:
         the over-compensated party shall compensate the undercompensated
         party within 30 days of receiving the results of the audit.
 
-7.  Indemnification
+7. Indemnification
 
-    1.  By Partner. Subject to 7.5, Partner (as \"Indemnitor\") shall
+    1. By Partner. Subject to 7.5, Partner (as \"Indemnitor\") shall
         defend and indemnify sāf.ai and its officers, employees,
         directors, agents and Affiliates (each as an \"Indemnitee\")
         from and against any and all claims, losses, damages, judgments,
@@ -688,7 +689,7 @@ follows:
         representations or warranties in this PPA or any applicable
         Addendum; or (d) any claim specified to subject to indemnity in
         an applicable Addendum.
-    2.  By sāf.ai. Subject to 7.5, sāf.ai (as \"Indemnitor\") shall
+    2. By sāf.ai. Subject to 7.5, sāf.ai (as \"Indemnitor\") shall
         defend and indemnify Partner and its officers, employees,
         directors, agents and Affiliates (each as an \"Indemnitee\")
         from and against any and all claims, losses, damages, judgments,
@@ -707,7 +708,7 @@ follows:
         would not have occurred but for such combination, operation use;
         or (ii) use of the sāf.ai Products or Services other than in
         accordance with this PPA and the TOS.
-    3.  Injunction. If your use of the sāf.ai Offerings is, or in
+    3. Injunction. If your use of the sāf.ai Offerings is, or in
         sāf.ai\'s opinion is likely to be, enjoined due to the type of
         claim specified in Section 7.2(ii), then sāf.ai may at its sole
         option and expense: (i) replace or modify the sāf.ai Offerings
@@ -721,12 +722,12 @@ follows:
         the termination to the extent your rights under the applicable
         Addendum would not be able to be effected but for the use of the
         sāf.ai Offerings.
-    4.  Sole Remedy. SUBJECT TO SECTION 9.1 BELOW, THE FOREGOING
+    4. Sole Remedy. SUBJECT TO SECTION 9.1 BELOW, THE FOREGOING
         SECTIONS 7.2 and 7.3 STATE THE ENTIRE OBLIGATION OF SAF.AI AND
         ITS LICENSORS WITH RESPECT TO ANY ALLEGED OR ACTUAL INFRINGEMENT
         OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS BY THE
         sāf.ai Offerings.
-    5.  Conditions of Indemnification. As a condition to an
+    5. Conditions of Indemnification. As a condition to an
         Indemnitor\'s obligations under this Section 7, an Indemnitee
         will: (i) promptly notify the Indemnitor of the claim for which
         the Indemnitee is seeking indemnification; (ii) grant the
@@ -747,24 +748,24 @@ follows:
         Indemnitee enters into without the Indemnitor\'s prior written
         consent.
 
-8.  Warranties; Disclaimer
+8. Warranties; Disclaimer
 
-    1.  Validity. Each party represents and warrants that this PPA has
+    1. Validity. Each party represents and warrants that this PPA has
         been duly and validly executed and delivered by such party;
-    2.  No Pre-existing Obligations. Each party represents and warrants
+    2. No Pre-existing Obligations. Each party represents and warrants
         that it has no pre-existing obligations or commitments (and will
         not assume or otherwise undertake any obligations or
         commitments) that would be in conflict or inconsistent with or
         that would hinder such party\'s performance of its obligations
         under this PPA.
-    3.  Non-infringement. Partner represents and warrants that, to its
+    3. Non-infringement. Partner represents and warrants that, to its
         knowledge, no Partner Application will infringe, misappropriate
         or violate the rights of any third party, including, without
         limitation, any Intellectual Property Rights or any rights of
         privacy or rights of publicity.
-    4.  Non-Violation of Laws. Each party represents and warrants that
+    4. Non-Violation of Laws. Each party represents and warrants that
         it shall comply at all times with Section 4.5.
-    5.  Disclaimer. **ANY WARRANTIES THAT MAY BE MADE REGARDING THE
+    5. Disclaimer. **ANY WARRANTIES THAT MAY BE MADE REGARDING THE
         SĀF.AI SERVICES ARE MADE ONLY TO THIRD PARTIES WHO ACQUIRE
         SUBSCRIPTION LICENSES FOR THEIR OWN COMMERCIAL END USE PURSUANT
         TO THE SĀF.AI TERMS OF SERVICE; NOTWITHSTANDING ANYTHING TO THE
@@ -789,9 +790,9 @@ follows:
         REVENUE THAT PARTNER MAY EARN AS A RESULT OF ITS ACTIONS UNDER
         THIS PPA.**
 
-9.  LIMITATION OF LIABILITY
+9. LIMITATION OF LIABILITY
 
-    1.  Neither party\'s liability (i) for unpaid Fees, (ii) for death
+    1. Neither party\'s liability (i) for unpaid Fees, (ii) for death
         or personal injury caused by its negligence or the negligence of
         its employees or agents, (iii) for fraud or fraudulent
         misrepresentation, (iv) under the indemnities set forth in
@@ -799,7 +800,7 @@ follows:
         its grossly negligent conduct; or (vii) for any other liability
         that cannot be excluded or limited by law, is excluded or
         limited by this PPA.
-    2.  Subject to Section 9.1 above, neither party shall be liable
+    2. Subject to Section 9.1 above, neither party shall be liable
         under or in connection with this PPA to the other (whether for
         breach of contract, tort (including negligence), breach of
         statutory duty or otherwise) for (i) loss of profit or
@@ -808,7 +809,7 @@ follows:
         malfunction, or (vi) any other indirect, incidental,
         consequential, or special loss, even if a party has been advised
         of the possibility of such losses occurring.
-    3.  Subject to Sections 9.1 and 9.2 above, the aggregate liability
+    3. Subject to Sections 9.1 and 9.2 above, the aggregate liability
         of either party, its employees and its and each of their
         Affiliates\' to the other party arising out of or in connection
         with this PPA (and whether such liability arises as a result of
@@ -826,25 +827,25 @@ follows:
         and (ii) \"Contract Year\" means the relevant period of twelve
         months starting on the start date of the applicable Addendum or
         an anniversary thereof (as appropriate).
-    4.  Neither party may bring a claim or action against the other
+    4. Neither party may bring a claim or action against the other
         party, whether based in contract, tort (including negligence),
         breach of statutory duty, under an indemnity or otherwise,
         arising out of, or in connection with, this PPA more than
         one (1) year after the party knows, or should reasonably have
         known, of any event giving rise to the claim or cause of action.
-    5.  Each party shall take all reasonable steps to mitigate any loss
+    5. Each party shall take all reasonable steps to mitigate any loss
         and damage it incurs in relation to any claim or action (whether
         based on an action or claim in contract, tort (including
         negligence), breach of statutory duty, under an indemnity or
         otherwise) which it brings against the other.
-    6.  THE PARTIES AGREE THAT THE LIMITATIONS AND EXCLUSIONS SET OUT IN
+    6. THE PARTIES AGREE THAT THE LIMITATIONS AND EXCLUSIONS SET OUT IN
         THIS SECTION 9 ARE REASONABLE, HAVING REGARD TO ALL THE RELEVANT
         CIRCUMSTANCES AND THE LEVELS OF RISK ASSOCIATED WITH EACH
         PARTY\'S OBLIGATIONS UNDER THIS AGREEMENT.
 
 10. Confidential Information.
 
-    1.  Definition. \"Confidential Information\" means: any business or
+    1. Definition. \"Confidential Information\" means: any business or
         technical information disclosed by either party (\"Disclosing
         Party\") to the other (\"Receiving Party\") that is designated
         as confidential at the time of disclosure or that, under the
@@ -870,7 +871,7 @@ follows:
         sāf.ai, sāf.ai Materials should be treated as Confidential
         Information not intended to be made public or shared with third
         parties.
-    2.  Exclusions. The obligations in Section 10.3 will not apply to
+    2. Exclusions. The obligations in Section 10.3 will not apply to
         the extent any information: (i) is or becomes generally known to
         the public through no fault of or breach of this PPA by the
         receiving party; (ii) is rightfully known by the receiving party
@@ -880,7 +881,7 @@ follows:
         Confidential Information; or (iv) is rightfully obtained by the
         receiving party from a third party without restriction on use or
         disclosure.
-    3.  Use and Disclosure Restrictions. The Receiving Party will not
+    3. Use and Disclosure Restrictions. The Receiving Party will not
         use the Disclosing Party\'s Confidential Information except as
         necessary for the performance or enforcement of this PPA and
         will not disclose such Confidential Information to any third
@@ -912,7 +913,7 @@ follows:
         any such persons are bound by a written agreement that contains
         use and disclosure restrictions consistent with the terms set
         forth in this Section.
-    4.  Remedies. Any use or disclosure of the Disclosing Party\'s
+    4. Remedies. Any use or disclosure of the Disclosing Party\'s
         Confidential Information in a manner inconsistent with the
         provisions of this Agreement may cause the Disclosing Party
         irreparable damage for which remedies other than injunctive
@@ -922,12 +923,12 @@ follows:
 
 11. Term and Termination.
 
-    1.  Term. This PPA will begin on the Effective Date and shall remain
+    1. Term. This PPA will begin on the Effective Date and shall remain
         in effect until the later of one year from the Effective Date or
         the date upon which no Addendum remains outstanding between the
         parties, unless earlier terminated under this Agreement.
 
-    2.  Termination for Convenience.
+    2. Termination for Convenience.
 
         By sāf.ai. sāf.ai may terminate an Addendum or this PPA (i) for
         any reason or no reason upon at least thirty (30) days prior
@@ -943,7 +944,7 @@ follows:
         written notice. For clarity, Partner may terminate all Addenda
         and this PPA simultaneously in accordance with this paragraph.
 
-    3.  Termination for Change of Control. sāf.ai may terminate this PPA
+    3. Termination for Change of Control. sāf.ai may terminate this PPA
         upon notice to Partner if Partner undergoes a Change of Control
         (defined herein). For purposes of this PPA, \"Change of
         Control\" means a transaction or a series of related
@@ -959,13 +960,13 @@ follows:
         the ability to elect a majority of Partner\'s board of directors
         or a similar governing body.
 
-    4.  Termination for Material Breach. In the event either party fails
+    4. Termination for Material Breach. In the event either party fails
         to cure a material breach of this PPA within thirty (30) days or
         such other period as agreed to in writing after receiving
         written notice thereof, then the non-breaching party may
         terminate this PPA upon written notice.
 
-    5.  Effect of Termination. Upon any termination of the PPA, except
+    5. Effect of Termination. Upon any termination of the PPA, except
         as described in an Addendum: (i) all licenses granted to Partner
         by sāf.ai hereunder will automatically cease; (ii) Partner will
         promptly return, or at sāf.ai\'s option, destroy all sāf.ai
@@ -988,7 +989,7 @@ follows:
         they will become due and payable on the effective date of
         termination, even if longer terms had been provided previously.
 
-    6.  Survival. Notwithstanding any termination of any Addendum or
+    6. Survival. Notwithstanding any termination of any Addendum or
         this PPA, the provisions of SECTIONS 1, 4.2, 4.8, 6.6, 7, 8.5,
         9, 10, 11, and 12,inclusive along with all provisions of any
         Addendum that by their terms are intended to survive, shall
@@ -996,7 +997,7 @@ follows:
 
 12. Miscellaneous
 
-    1.  Relationship of Parties. Nothing contained in this PPA, nor in
+    1. Relationship of Parties. Nothing contained in this PPA, nor in
         the relationship created thereby, shall be interpreted to
         evidence a joint venture, partnership, principal-agent
         relationship, or employer-employee relationship between Partner
@@ -1017,20 +1018,20 @@ follows:
         for national, state and local tax purposes amounts paid to
         Partner\'s approved employees, agents, contractors and other
         persons performing services pursuant to this PPA.
-    2.  Assignment. The rights and liabilities of the parties hereto
+    2. Assignment. The rights and liabilities of the parties hereto
         shall bind and inure to the benefit of their respective
         successors, heirs, executors and administrators, as the case may
         be; provided that Partner may not assign or delegate Partner\'s
         obligations under this PPA either in whole or in part without
         sāf.ai\'s prior written consent.
-    3.  Governing Law; Severability. This PPA shall be governed by and
+    3. Governing Law; Severability. This PPA shall be governed by and
         construed in accordance with the laws of the State of Delaware,
         excluding that body of law applicable to choice of law. If any
         provision of this PPA is for any reason found by a court of
         competent jurisdiction to be unenforceable, the remainder of
         this PPA, or the Agreement that it is a part of, shall continue
         in full force and effect.
-    4.  Complete Understanding; Modification. This PPA (including all
+    4. Complete Understanding; Modification. This PPA (including all
         applicable Addenda) constitutes the entire agreement between the
         parties. It supersedes and replaces all prior or contemporaneous
         understandings or agreements, written or oral, regarding such
@@ -1048,7 +1049,7 @@ follows:
         binding on Partner as of the Update Effective Date unless
         Partner sends a notice of termination prior to such date (which
         termination shall be effective as of such date).
-    5.  Notices. Any notices required or permitted hereunder shall be
+    5. Notices. Any notices required or permitted hereunder shall be
         given to the appropriate party at the address specified on the
         first page hereof or at such other address as the party shall
         specify in writing, which may include email. Additionally,
@@ -1062,39 +1063,25 @@ follows:
         or sent by certified or registered mail, three days after the
         date of mailing provided that notice of change of address shall
         be deemed effective only upon receipt.
-    6.  Headings. The titles and headings of the various sections and
+    6. Headings. The titles and headings of the various sections and
         paragraphs in this PPA are intended solely for convenience of
         reference and are not intended to explain, modify or place any
         construction or limitation upon any of the provisions of this
         PPA.
-    7.  Publicity. No public statement of any kind may be made by
+    7. Publicity. No public statement of any kind may be made by
         Partner without prior express written approval from sāf.ai.
 
-```{=html}
-<div style='text-align: left'>
-    Last updated: July 5, 2022
-</div> <!-- center alignment -->
-```
-```{=latex}
-\begin{center}
-[signature page follows]
-\end{center}
-\pagebreak
+Last updated: July 5, 2022
+
 By signing below, each party acknowledges that it has read and understood the terms of these Terms of Service and agrees to be bound by them.
 
-\signatureblock{Ling Young}{Chief Operating Officer}[{VAR Partner}]
-\pagebreak
-```
-```{=html}
-</div> <!--legal-block -->
-```
 ## Addenda
 
--   `ppa-cyber`{.interpreted-text role="doc"}
--   `dpa`{.interpreted-text role="doc"}
+- [Cyber Security Addendum to Partner Program Agreement](ppa-cyber.md)
+- [sāf.ai - Data Processing Addendum ("DPA")](dpa.md)
 
 ## Related Documents
 
--   `slavery-statement`{.interpreted-text role="doc"}
--   `conduct`{.interpreted-text role="doc"}
--   `privacy`{.interpreted-text role="doc"}
+- [sāf.ai Statement Against Modern Slavery and Child Labor](slavery-statement.md)
+- [Code of Conduct](conduct.md)
+- [sāf.ai - Privacy Policy](privacy.md)

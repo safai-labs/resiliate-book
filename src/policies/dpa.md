@@ -28,27 +28,30 @@ Personal Data.
 
 ## HOW TO EXECUTE THIS DPA
 
-1.  If you are an Azure sāf.ai user, please STOP and reach out to us at
+1. If you are an Azure sāf.ai user, please STOP and reach out to us at
     <privacy@saf.ai>.
-2.  This DPA consists of two parts: the main body of the DPA, and
+2. This DPA consists of two parts: the main body of the DPA, and
     Annexes A, B and C (including Appendices 1, 2 and 3 to Annex C).
-3.  This DPA has been pre-signed on behalf of sāf.ai. The Standard
+3. This DPA has been pre-signed on behalf of sāf.ai. The Standard
     Contractual Clauses in Annex C have been pre-signed by sāf.ai, Inc.
     as the data importer. This DPA will be null and void if any changes
     are made to it beyond filling out the sections described in 5,
     below.
-4.  If you execute an Agreement that explicitly states that this DPA is
+4. If you execute an Agreement that explicitly states that this DPA is
     incorporated, you do not need to take any further action to execute
     this DPA; your execution of the Agreement constitutes execution of
     the DPA.
-5.  If you have not executed an Agreement that explicitly states this
+5. If you have not executed an Agreement that explicitly states this
     DPA is incorporated, to complete this DPA, Customer must:
+
     a.  Complete the information and sign the main DPA \[signature
         box\]\_.
+
     b.  Complete the information as the data exporter in \[Annex A\]\_.
+
     c.  Complete the information and sign the \[Appendix 1\]\_ and
         \[Annex C\]\_.
-6.  Send the completed and signed DPA to sāf.ai by email, directed to
+6. Send the completed and signed DPA to sāf.ai by email, directed to
     <dpa@saf.ai>.
 
 Upon the earlier of (i) the execution of an Agreement that explicitly
@@ -70,40 +73,37 @@ neither a party to an Order Form nor the Agreement, this DPA is not
 valid and is not legally binding. Such entity should request that the
 Customer entity who is a party to the Agreement executes this DPA.
 
-```{=html}
-<div class="legal-block">
-```
-1.  DEFINITIONS
+1. DEFINITIONS
 
-    1.  \"**Affiliate**\" means, with respect to the identified party,
+    1. \"**Affiliate**\" means, with respect to the identified party,
         any entity that is directly or indirectly controlled by,
         controlling or under common control with such party.
-    2.  \"**Applicable Data Protection Laws**\" means all worldwide data
+    2. \"**Applicable Data Protection Laws**\" means all worldwide data
         protection and privacy laws and regulations applicable to
         Customer Personal Data in question, including, where applicable
         and without limitation, EU Data Protection Law and the
         California Consumer Privacy Act of 2018.
-    3.  \"**Authorized Person(s)**\" means any person who processes
+    3. \"**Authorized Person(s)**\" means any person who processes
         Customer Personal Data on sāf.ai\'s behalf, including sāf.ai\'s
         employees, officers, partners, principals, contractors and
         Subprocessors.
-    4.  \"**California Consumer Privacy Act of 2018**\" or \"**CCPA**\"
+    4. \"**California Consumer Privacy Act of 2018**\" or \"**CCPA**\"
         means Cal. Civ. Code §1798.100, et seq., as amended.
-    5.  \"**Cloud Provider**\" means, unless specified otherwise in an
+    5. \"**Cloud Provider**\" means, unless specified otherwise in an
         Order Form or the Agreement, Google Cloud Environment.
-    6.  \"**Customer Cloud Environment**\" has the meaning given to it
+    6. \"**Customer Cloud Environment**\" has the meaning given to it
         in the Agreement, or if not therein defined, means the cloud
         environment provided by the Cloud Provider into which sāf.ai
         deploys the Customer Data Plane.
-    7.  \"**Customer Content**\" has the meaning given to it in the
+    7. \"**Customer Content**\" has the meaning given to it in the
         Agreement, or if not therein defined, means all Customer Data,
         Customer Instructional Input, and Customer Results.
-    8.  \"**Customer Data**\" means the data, other than Customer
+    8. \"**Customer Data**\" means the data, other than Customer
         Instructional Input, made available by Customer and its
         Authorized Users for processing by, or use within, the
         Subscription Services, including without limitation Personal
         Data to the extent therein contained.
-    9.  \"**Customer Data Plane**\" has the meaning given to it in the
+    9. \"**Customer Data Plane**\" has the meaning given to it in the
         Agreement, or if not therein defined, means the elements of the
         Platform Services deployed into the Customer Cloud Environment;
         the primary processing of Customer Data by the Platform Services
@@ -218,15 +218,15 @@ Customer entity who is a party to the Agreement executes this DPA.
         Protection Laws do not define such terms, then the definitions
         given in EU Data Protection Law will apply.
 
-2.  SHARED RESPONSIBILITY DEPLOYMENT
+2. SHARED RESPONSIBILITY DEPLOYMENT
 
-    1.  Customer acknowledges that the Platform Services are implemented
+    1. Customer acknowledges that the Platform Services are implemented
         in a manner that divides the Platform Services between the
         Customer Cloud Environment and the sāf.ai Control Plane, and
         that accordingly each party must undertake certain technical and
         organizational measures in order to protect the Platform
         Services and the Customer Content.
-    2.  Without limiting the foregoing, and except to the extent
+    2. Without limiting the foregoing, and except to the extent
         otherwise set forth in the Agreement, Customer acknowledges and
         agrees that (1) in order to utilize the Platform Services,
         Customer must have an account with the Cloud Provider; (2)
@@ -249,7 +249,7 @@ Customer entity who is a party to the Agreement executes this DPA.
         of Customer and that accordingly sāf.ai will generally be
         unaware of the types of or details regarding the Customer
         Personal Data you may process within the Subscription Services.
-    3.  Customer acknowledges that the Subscription Services are
+    3. Customer acknowledges that the Subscription Services are
         data-type agnostic, and that sāf.ai does not have any knowledge
         of the actual data or types of data contained in the Customer
         Data. Accordingly, Customer shall notify sāf.ai prior to
@@ -261,9 +261,9 @@ Customer entity who is a party to the Agreement executes this DPA.
         Subscription Services by Customer to process any Sensitive Data,
         which may include additional fees.
 
-3.  PURPOSE; SCOPE; OWNERSHIP OF DATA
+3. PURPOSE; SCOPE; OWNERSHIP OF DATA
 
-    1.  Customer and sāf.ai have entered into the Agreement pursuant to
+    1. Customer and sāf.ai have entered into the Agreement pursuant to
         which Customer is being provided sāf.ai Services, including the
         Subscription Services. In using the Subscription Services,
         Customer may submit through the Subscription Services or
@@ -271,22 +271,18 @@ Customer entity who is a party to the Agreement executes this DPA.
         DPA applies where and only to the extent that sāf.ai processes
         Customer Personal Data on behalf of Customer as a Processor in
         the course of providing sāf.ai Services pursuant to the
-        Agreement. Additionally, Sections
-        `4.3 <para-4-3>`{.interpreted-text role="ref"},
-        `4.4 <para-4-4>`{.interpreted-text role="ref"},
-        `4.5 <para-4-5>`{.interpreted-text role="ref"},
-        `5.1 <para-5-1>`{.interpreted-text role="ref"}, and
-        `9 <para-9>`{.interpreted-text role="ref"} shall only apply to
+        Agreement. Additionally, Sections 4.3, 4.4, 4.5, 5.1,
+        and 9 shall only apply to
         Customer Personal Data within the scope of the DPA to the extent
         such rights are set forth in or required by Applicable Data
         Protection Laws.
-    2.  As between the parties, Customer is either the Controller of
+    2. As between the parties, Customer is either the Controller of
         Customer Personal Data or, if Customer is acting on behalf of a
         third-party Controller, then a Processor. All Customer Data
         (including all Customer Personal Data) processed under the terms
         of this DPA and the Agreement shall remain, as between the
         parties, the property of Customer.
-    3.  Accordingly, sāf.ai shall process Customer Personal Data (i)
+    3. Accordingly, sāf.ai shall process Customer Personal Data (i)
         submitted to sāf.ai by Customer through the Subscription
         Services only as a Processor acting on behalf of Customer
         (whether as Controller or itself a Processor on behalf of third
@@ -300,7 +296,7 @@ Customer entity who is a party to the Agreement executes this DPA.
         to be in violation of any law or regulation. Without limiting
         the foregoing, sāf.ai will not 'sell\' Customer Personal Data
         (as such term is defined in the CCPA).
-    4.  Additionally, when using the Subscription Services, sāf.ai will
+    4. Additionally, when using the Subscription Services, sāf.ai will
         collect Usage Data. Where Usage Data contains Customer Personal
         Data (e.g., within Customer Instructional Input), sāf.ai shall
         act as Customer\'s Processor under Applicable Data Protection
@@ -321,16 +317,18 @@ Customer entity who is a party to the Agreement executes this DPA.
         not 'sell\' any Usage Data (as such term is defined in the CCPA)
         that contains any Personal Data subject to the CCPA.
 
-4.  SUBPROCESSING
+4. SUBPROCESSING
 
-    1.  Customer agrees that sāf.ai may appoint Subprocessors to assist
+    1. Customer agrees that sāf.ai may appoint Subprocessors to assist
         it in providing the sāf.ai Services by processing Customer
         Personal Data solely for the purpose of providing the sāf.ai
         Services, provided that such Subprocessors:
+
         (a) agree to act only on sāf.ai\'s instructions when processing
             the Customer Personal Data (which instructions shall be
             consistent with Customer\'s processing instructions to
             sāf.ai); and
+
         (b) agree to protect the Customer Personal Data to a standard
             consistent with the requirements of this DPA, including by
             implementing and maintaining appropriate technical and
@@ -338,22 +336,19 @@ Customer entity who is a party to the Agreement executes this DPA.
             Data they process consistent with the Security Standards
             described in Annex B.
 
-    2.  sāf.ai remains fully liable for any breach of this DPA or the
+    2. sāf.ai remains fully liable for any breach of this DPA or the
         Agreement that is caused by an act, error or omission of such
         Subprocessor to the extent sāf.ai would have been liable for
         such act, error or omission had it been caused by sāf.ai.
 
-    3.  ::: {#para-4-3}
-        sāf.ai shall maintain an up-to-date list at saf.ai/subprocessors
+    3. sāf.ai shall maintain an up-to-date list at saf.ai/subprocessors
         (also available upon request to <privacy@saf.ai>) of all
         Subprocessors used in the provision of the sāf.ai Services who
         may have access to or process Customer Personal Data received by
         sāf.ai from Customer through the Subscription Services under the
         Agreement ("Subprocessor List").
-        :::
 
-    4.  ::: {#para-4-4}
-        Prior to the addition or change of any Subprocessors, sāf.ai
+    4. Prior to the addition or change of any Subprocessors, sāf.ai
         shall provide notice to Customer, which may include by updating
         the Subprocessor List on the website listed above, not less than
         30 days prior to the date on which the Subprocessor shall
@@ -362,12 +357,10 @@ Customer entity who is a party to the Agreement executes this DPA.
         notifications of changes to the Subprocessor List (which may
         include without limitation the provision of an RSS feed). It is
         Customer\'s responsibility to check this website for changes.
-        :::
 
-    5.  ::: {#para-4-5}
-        In the event that Customer objects to the processing of Customer
+    5. In the event that Customer objects to the processing of Customer
         Personal Data by any newly appointed Subprocessor as described
-        in `Section 4.4 <para-4-4>`{.interpreted-text role="ref"}, it
+        in Section 4.4, it
         shall inform sāf.ai in writing within 10 calendar days after
         notice has been provided by sāf.ai. In the event that Customer
         timely objects on reasonable grounds relating to the protection
@@ -385,7 +378,7 @@ Customer entity who is a party to the Agreement executes this DPA.
         Services to be provided but not yet received by Customer.
         :::
 
-    6.  Customer acknowledges that any third party services that may be
+    6. Customer acknowledges that any third party services that may be
         linked to or used within the sāf.ai Services (e.g., Customer may
         use GitHub to backup Customer\'s notebooks) ("**Non-sāf.ai
         Services**") are governed solely by the terms and conditions and
@@ -403,10 +396,9 @@ Customer entity who is a party to the Agreement executes this DPA.
         Non-sāf.ai Services. The providers of Non-sāf.ai Services shall
         not be deemed Subprocessors for any purpose under this DPA.
 
-5.  COOPERATION
+5. COOPERATION
 
-    1.  ::: {#para-5-1}
-        Customer acknowledges that the Subscription Services provide
+    1. Customer acknowledges that the Subscription Services provide
         Customer with a number of controls that Customer may use to
         retrieve, correct, delete or restrict Customer Data, which
         Customer may use to assist it in connection with its obligations
@@ -432,9 +424,8 @@ Customer entity who is a party to the Agreement executes this DPA.
         the foregoing shall not prohibit sāf.ai from communicating with
         a Data Subject if it is not reasonably apparent on the face of
         the communication to which customer of sāf.ai the DSR relates.
-        :::
 
-    2.  If sāf.ai receives a subpoena, court order, warrant or other
+    2. If sāf.ai receives a subpoena, court order, warrant or other
         legal demand from a third party (including law enforcement or
         other public or judicial authorities) seeking the disclosure of
         Customer Personal Data, sāf.ai shall not disclose any
@@ -443,7 +434,7 @@ Customer entity who is a party to the Agreement executes this DPA.
         reasonably cooperate with Customer if it wishes to limit,
         challenge or protect against such disclosure.
 
-    3.  To the extent required under Applicable Data Protection Laws,
+    3. To the extent required under Applicable Data Protection Laws,
         sāf.ai will assist Customer (or its third party Controller), at
         Customer\'s request and expense, to conduct a data protection
         impact assessment and, where legally required, consult with
@@ -456,11 +447,11 @@ Customer entity who is a party to the Agreement executes this DPA.
         for any costs arising from sāf.ai\'s provision of such
         assistance.
 
-    4.  At Customer\'s written request, sāf.ai will make reasonable
+    4. At Customer\'s written request, sāf.ai will make reasonable
         efforts to provide Customer with all information necessary to
         demonstrate its compliance with Applicable Data Protection Laws.
 
-    5.  Customer acknowledges that sāf.ai may be required under
+    5. Customer acknowledges that sāf.ai may be required under
         Applicable Data Protection Laws to: (a) collect and maintain
         records of certain information, including the name and contact
         details of each Processor and/or Controller on behalf of which
@@ -472,19 +463,19 @@ Customer entity who is a party to the Agreement executes this DPA.
         or other means provided by sāf.ai, and will ensure that all
         information provided is kept accurate and up-to-date.
 
-    6.  If the Applicable Data Protection Laws and corresponding
+    6. If the Applicable Data Protection Laws and corresponding
         obligations related to the processing of Personal Data change,
         the parties shall discuss in good faith any necessary
         amendments.
 
-6.  DATA ACCESS & SECURITY MEASURES
+6. DATA ACCESS & SECURITY MEASURES
 
-    1.  sāf.ai shall ensure that any Authorized Person is subject to a
+    1. sāf.ai shall ensure that any Authorized Person is subject to a
         duty of confidentiality (whether a contractual or statutory
         duty) and that they process Customer Personal Data only for the
         purpose of delivering the sāf.ai Services under the Agreement(s)
         to Customer.
-    2.  sāf.ai will implement and maintain appropriate technical and
+    2. sāf.ai will implement and maintain appropriate technical and
         organizational security measures to protect against Security
         Breaches and to preserve the security, availability, integrity
         and confidentiality of Customer Personal Data ("Security
@@ -494,7 +485,7 @@ Customer entity who is a party to the Agreement executes this DPA.
         context and purposes of processing as well as the risk of
         varying likelihood and severity for the rights and freedoms of
         natural persons.
-    3.  Because Customer rather than sāf.ai chooses what Customer
+    3. Because Customer rather than sāf.ai chooses what Customer
         Personal Data may be processed within the sāf.ai Services,
         Customer acknowledges its obligation to review the Security
         Measures prior to providing sāf.ai with access to such Customer
@@ -506,23 +497,25 @@ Customer entity who is a party to the Agreement executes this DPA.
         Measures are insufficient to adequately protect the Customer
         Personal Data according to Applicable Data Protection Laws.
 
-7.  SECURITY INCIDENTS
+7. SECURITY INCIDENTS
 
-    1.  In the event of a Security Breach, sāf.ai shall inform Customer
+    1. In the event of a Security Breach, sāf.ai shall inform Customer
         without undue delay and provide written details of the Security
         Breach, including the type of data affected and the identity of
         affected person(s) as soon as such information becomes known or
         available to sāf.ai.
-    2.  Furthermore, in the event of a Security Breach, sāf.ai shall:
+    2. Furthermore, in the event of a Security Breach, sāf.ai shall:
+
         (a) provide timely information and cooperation as Customer may
             reasonably require to fulfill Customer\'s data breach
             reporting obligations under Applicable Data Protection Laws;
             *and*
+
         (b) take such measures and actions as are appropriate to remedy
             or mitigate the effects of the Security Breach and shall
             keep Customer up-to-date about all developments in
             connection with the Security Breach.
-    3.  The decision whether to provide notification, public/regulatory
+    3. The decision whether to provide notification, public/regulatory
         communication or a press release (each, a "Notification")
         concerning the Security Breach shall be solely at Customer\'s
         discretion, but the content of any Notification that names
@@ -534,29 +527,29 @@ Customer entity who is a party to the Agreement executes this DPA.
         approval shall not prevent Customer from complying with
         Applicable Data Protection Laws.
 
-8.  SECURITY REPORTS & INSPECTIONS; AUDITS
+8. SECURITY REPORTS & INSPECTIONS; AUDITS
 
-    1.  The parties acknowledge that sāf.ai uses internal auditors to
+    1. The parties acknowledge that sāf.ai uses internal auditors to
         verify the adequacy of its Security Measures. This audit:
+
         (a) will be performed at least annually;
+
         (b) will be performed according to ISO 27001 standards or such
             other alternative standards that are substantially
             equivalent to ISO 27001;
-    2.  At Customer\'s written request, sāf.ai will provide Customer
+    2. At Customer\'s written request, sāf.ai will provide Customer
         with copies of its Report so that Customer can reasonably verify
         sāf.ai\'s compliance with the security and audit obligations
         under this Agreement. The Report and any summaries thereof will
         constitute sāf.ai\'s Confidential Information under the
         confidentiality provisions of the Agreement.
-    3.  sāf.ai will respond in a commercially reasonable time-frame to
+    3. sāf.ai will respond in a commercially reasonable time-frame to
         any requests for additional information or clarification from
         Customer related to such Report.
 
-9.  ::: {#para-9}
-    DATA TRANSPORT
-    :::
+9. DATA TRANSPORT
 
-    1.  Customer acknowledges that sāf.ai and its Subprocessors may
+    1. Customer acknowledges that sāf.ai and its Subprocessors may
         maintain data processing operations in countries that are
         outside of the country in which the Platform Services are
         deployed. As such, both sāf.ai and its Subprocessors may process
@@ -565,7 +558,7 @@ Customer entity who is a party to the Agreement executes this DPA.
         cloud instances of the Subscription Services located in the EEA
         if such non-EEA processing is necessary to provide
         support-related or other services requested by Customer.
-    2.  To the extent that sāf.ai processes any Customer Personal Data
+    2. To the extent that sāf.ai processes any Customer Personal Data
         subject to EU Data Protection Law ("EEA Data") on behalf of
         Customer, the parties agree that sāf.ai makes available the
         transfer mechanisms listed below for any transfers of EEA Data
@@ -573,8 +566,8 @@ Customer entity who is a party to the Agreement executes this DPA.
         ensure an adequate level of protection (within the meaning of
         Applicable Data Protection Laws) and to the extent such
         transfers are subject to such EU Data Protection Law:
-        (a) ::: {#para-9-2-a}
-            \(i\) sāf.ai will be deemed to provide adequate protection
+
+        (a) \(i\) sāf.ai will be deemed to provide adequate protection
             (within the meaning of EU Data Protection Law) for EEA Data
             by virtue of having self-certified its compliance with the
             Privacy Shield; (ii) sāf.ai agrees to process EEA Data in
@@ -587,10 +580,9 @@ Customer entity who is a party to the Agreement executes this DPA.
             cannot correct any non-compliance with this sub-Section in
             accordance with the Privacy Shield Principles within a
             reasonable time frame.
-            :::
 
         (b) To the extent the transfer mechanism identified in
-            `Section 9.2(a) <para-9-2-a>`{.interpreted-text role="ref"}
+            Section 9.2(a)
             does not apply to the transfer, is invalidated and/or sāf.ai
             is no longer self-certified to the Privacy Shield, sāf.ai
             agrees to abide by and process EEA Data in compliance with
@@ -618,34 +610,30 @@ Customer entity who is a party to the Agreement executes this DPA.
         particularly with respect to the security, protection and
         disclosure of Personal Data;
 
-    \(ii\) if Customer is itself a Processor acting on behalf of a
-
-    :   third-party Controller, Customer warrants to sāf.ai that
+    (ii) if Customer is itself a Processor acting on behalf of a
+        third-party Controller, Customer warrants to sāf.ai that
         Customer\'s instructions and actions with respect to that
         Personal Data, including its appointment of sāf.ai as another
         Processor, have been authorized by the relevant Controller;
 
-    \(iii\) that if processing by Customer involves any Sensitive Data,
-
-    :   Customer has collected such Sensitive Data in accordance with
+    (iii) that if processing by Customer involves any Sensitive Data,
+        Customer has collected such Sensitive Data in accordance with
         Applicable Data Protection Laws;
 
     (iv) that Customer will inform its Data Subjects as legally
          required:
 
-    > (a) about its use of Processors to process their Personal Data,
-    >     including sāf.ai; *and*
-    > (b) that their Personal Data may be processed outside of the
-    >     European Economic Area;
+    (a) about its use of Processors to process their Personal Data,
+        including sāf.ai; *and*
+
+    (b) that their Personal Data may be processed outside of the
+        European Economic Area;
 
     (v) that it shall respond in reasonable time and to the extent
         reasonably practicable to enquiries by Data Subjects regarding
         the processing of their Personal Data by Customer, and to give
         appropriate instructions to sāf.ai in a timely manner; and
 
-    ```{=html}
-    <!-- -->
-    ```
     (vi) that it shall respond in a reasonable time to enquiries from an
          applicable data protection authority regarding the processing
          of relevant Personal Data by Customer.
@@ -663,19 +651,19 @@ Customer entity who is a party to the Agreement executes this DPA.
 
 12. GENERAL.
 
-    1.  The parties agree that this DPA shall replace any existing DPA
+    1. The parties agree that this DPA shall replace any existing DPA
         (including the Model Clauses (as applicable)) the parties may
         have previously entered into in connection with the sāf.ai
         Services.
-    2.  This DPA shall be effective on the date of the last signature
+    2. This DPA shall be effective on the date of the last signature
         set forth below. The obligations placed upon sāf.ai under this
         DPA shall survive so long as sāf.ai and/or its Subprocessors
         processes Customer Personal Data on behalf of Customer.
-    3.  This DPA may not be modified except by a subsequent written
+    3. This DPA may not be modified except by a subsequent written
         instrument signed by both parties.
-    4.  If any part of this DPA is held unenforceable, the validity of
+    4. If any part of this DPA is held unenforceable, the validity of
         all remaining parts will not be affected.
-    5.  In the event of any conflict between this DPA and any data
+    5. In the event of any conflict between this DPA and any data
         privacy provisions set out in any Agreements the parties agree
         that the terms of this DPA shall prevail. Notwithstanding the
         foregoing, if there is any conflict between this DPA and a BAA
@@ -684,7 +672,7 @@ Customer entity who is a party to the Agreement executes this DPA.
         state laws, rules or regulations applicable to health
         information, then the BAA shall prevail to the extent the
         conflict relates to such data.
-    6.  Notwithstanding anything to the contrary in the Agreement or
+    6. Notwithstanding anything to the contrary in the Agreement or
         this DPA, each party\'s and all of its affiliates\' liability,
         taken together in the aggregate, arising out of or related to
         this DPA, any Order or the Agreement, whether in contract, tort
@@ -701,39 +689,17 @@ Customer entity who is a party to the Agreement executes this DPA.
         Applicable Data Protection Laws shall count toward and reduce
         sāf.ai\'s liability under the Agreement as if such penalties
         were liabilities to the Customer under the Agreement.
-    7.  This DPA will be governed by and construed in accordance with
+    7. This DPA will be governed by and construed in accordance with
         the governing law and jurisdiction provisions in the Agreement,
         unless required otherwise by Applicable Data Protection Laws.
-    8.  This DPA and the Model Clauses will terminate simultaneously and
+    8. This DPA and the Model Clauses will terminate simultaneously and
         automatically with the termination or expiry of the Agreement.
 
-```{=html}
-<div style='text-align: center'>
-```
-```{=latex}
-\begin{center}
-```
 \[signature page follows\]
 
-```{=html}
-</div> <!-- center alignment -->
-```
-```{=latex}
-\end{center}
-\pagebreak
-```
 By signing below, each party acknowledges that it has read and
 understood the terms of this DPA and agrees to be bound by them.
 
-```{=latex}
-\signatureblock{Ling Young}{Chief Operating Officer}
-\pagebreak
-```
-```{=html}
-</div> <!--legal-block -->
-```
 ### ANNEXES and APPENDICES
 
-::: toctree
-DPA Annex A \<dpa-annex-a\>
-:::
+- [DPA Annex A](dpa-annex-a.md)

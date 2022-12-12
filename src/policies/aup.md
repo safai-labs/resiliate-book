@@ -2,13 +2,7 @@
 
 ## For the paid (including trial) version(s) of sāf.ai software or services
 
-```{=latex}
-\pagebreak
-```
-```{=html}
-<div class="legal-block">
-```
-1.  This sāf.ai acceptable use policy ("AUP") sets forth certain
+1. This sāf.ai acceptable use policy ("AUP") sets forth certain
     restrictions relating to the access to, and use of, the sāf.ai
     Services by you or someone on your behalf under your agreement with
     sāf.ai applicable to the sāf.ai Services ("Agreement"). The
@@ -24,16 +18,20 @@
     sāf.ai Services. Any violation of this AUP may result in the
     suspension or termination of your access to and use of the sāf.ai
     Services.
-2.  You shall not (and shall not permit your Authorized Users to):
+2. You shall not (and shall not permit your Authorized Users to):
+
     a.  attempt to access, search, or create accounts for any of our
         services by any means other than our publicly supported
         interfaces or as otherwise authorized by us;
+
     b.  create multiple accounts for the purpose of extending your free
         trial;
+
     c.  interfere with or disrupt (or attempt to interfere with or
         disrupt) the sāf.ai Services, or gain (or attempt to gain)
         access to any Systems that connect thereto (except as required
         to appropriately access and use the sāf.ai Services);
+
     d.  use the sāf.ai Services to violate the security or integrity of,
         or otherwise abuse, any System of any party (including without
         limitation the Subscription Services), including but not limited
@@ -47,28 +45,30 @@
         open proxies, mail relays or recursive domain name servers),
         using any means to bypass System usage limitations, or storing,
         transmitting or installing malicious code;
+
     e.  use the sāf.ai Services to distribute or facilitate the sending
         of unsolicited or unlawful (i) email or other messages, or (ii)
         promotions of any kind;
+
     f.  use the sāf.ai Services to engage in or promote any other
         fraudulent, deceptive or illegal activities;
+
     g.  use the sāf.ai Services to process, store or transmit material,
         including any Customer Data, in violation of any Law or any
         third party rights, including without limitation privacy rights;
+
     h.  disclose to any third party the results of any testing or
         benchmarking of the sāf.ai Services that you might conduct
         unless preapproved by sāf.ai in writing (except to a contractor
         bound to maintain the confidentiality of such information and
         solely for the purposes of supporting your use of the sāf.ai
         Services); or
+
     i.  use the sāf.ai Services in any circumstances where failure could
         lead to death, personal injury or environmental damage, and you
         further acknowledge that the sāf.ai Services are not designed or
         intended for such use.
 
-```{=html}
-</div> <!-- legal block -->
-```
 ### Inactive Monthly Pay as you go (PAYG) accounts:
 
 If an account for which sāf.ai is providing Monthly PAYG Services is
@@ -85,12 +85,12 @@ further notice.
 
 An account may be considered inactive if:
 
--   No Customer Authorized User has logged into the account for at least
+- No Customer Authorized User has logged into the account for at least
     six months;
--   No Customer Instructional Input was ever created within or input
+- No Customer Instructional Input was ever created within or input
     into the account and at least three months has passed since the
     account was established; or
--   If your account is set up to be paid by credit card, you (i) did not
+- If your account is set up to be paid by credit card, you (i) did not
     provide a valid credit card number or (ii) you failed to update an
     expired or invalid credit card number and at least three months has
     passed without a valid credit card number being on file, provided

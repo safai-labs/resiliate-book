@@ -38,16 +38,12 @@ Ahmed Masud
 
 President,
 
-```{=html}
 <div style='display: flex; flex-direction: row; align-items: flex-end;'>
  <div style='width: 180px;'>
      <img src='https://saf.ai/wordpress/wp-content/uploads/2019/02/1656328_10151873286246008_1249613630_n.jpg' style='width: 180px;' />
  </div>
 </div>
-```
-```{=latex}
-\pagebreak
-```
+
 ## Begin Here
 
 **Our Code reflects who we are and what\'s important to us.**
@@ -102,7 +98,6 @@ concerns in good faith, and prevent retaliation by others.
 
 ## SPEAK UP WITHOUT FEAR
 
-::: {.sidebar .sidebar}
 **What if?**
 
 **I suspect\-\--but am not certain\-\--that someone is violating our
@@ -122,7 +117,6 @@ its diverse workforce, considers various cultural norms when looking
 into concerns and takes all appropriate actions to protect the identity
 of the person who is sharing the information, as well as the information
 that\'s being shared.
-:::
 
 **We don\'t tolerate retaliation.**
 
@@ -150,8 +144,8 @@ you\'re uncomfortable speaking with your manager, or if you have already
 shared a concern and feel it\'s not being addressed appropriately, reach
 out to HR or another member of management or one of the following:
 
--   The CEO of the company.
--   One of the members of the saf.ai Board of Directors.
+- The CEO of the company.
+- One of the members of the saf.ai Board of Directors.
 
 Nothing in the Code prohibits you from communicating with government
 agencies about possible violations of federal, state, or local laws or
@@ -197,12 +191,10 @@ moderation and good judgment.
 
 ## UPHOLD HUMAN RIGHTS
 
-::: {.sidebar .sidebar}
 **What can you do?**
 
 Follow the employment laws where you work, be alert to abuses and speak
 up if you see or suspect possible labor law or human rights violations.
-:::
 
 **We are committed to fair employment practices everywhere we operate.**
 
@@ -217,23 +209,19 @@ trafficking.
 We expect our suppliers and partners to share our commitment to the same
 high standards.
 
-See our statement on `slavery-statement`{.interpreted-text role="ref"}
+See our statement on [sāf.ai Statement Against Modern Slavery and Child Labor](slavery-statement.md)
 
 ## KEEP PRIVATE INFORMATION PRIVATE
 
-::: {.sidebar .sidebar}
 **Good Practices.**
 
 It is important to practice good cyber-hygiene.
 
-::: container
--   Know what kind of information is considered personal.
--   Follow the privacy laws and regulation of the country or countries
+- Know what kind of information is considered personal.
+- Follow the privacy laws and regulation of the country or countries
     where you work.
-:::
 
-For details see our [Cyber Security Policy](cyber-policy)
-:::
+For details see our [Cyber Security Policy](cyber-policy.md)
 
 **People trust us to protect their personal information.**
 
@@ -256,12 +244,11 @@ practices we have in place to protect our networks, computers, programs
 and data from attack, damage or unauthorized access.
 
 Partners and suppliers may also be required to abide by the terms of
-[Cyber Security Requirements for Partner Program](ppa-cyber) as part of
+[Cyber Security Requirements for Partner Program](ppa-cyber.md) as part of
 our partner program agreement(s).
 
 ## NEVER BRIBE
 
-::: sidebar
 **What if?**
 
 A government official asked if I can help their daughter get an
@@ -273,7 +260,6 @@ official may be planning to do something improper in exchange for the
 favor. You can provide the government employee information about an
 internship and allow his daughter to apply as all other candidates do.
 Doing anything more than that could be viewed as a bribe.
-:::
 
 **We compete for business based on the merit of our products.**
 

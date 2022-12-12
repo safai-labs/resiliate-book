@@ -10,7 +10,7 @@ Let's create some data!
 
 2. Copy or extract the test data in the directory. For example, if you
   grabbed 200.zip from
-  [https://saf.ai/downloads/beta/test-data](https://saf.ai/downloads/beta/test-data),
+  [{{#include ../../includes.md:testdata-url}}]({{#include ../../includes.md:testdata-url}}),
   you can unzip it in the CEFS directory.
 
     ``` bash

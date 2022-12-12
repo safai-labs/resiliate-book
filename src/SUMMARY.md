@@ -30,7 +30,7 @@
 # Policies
 
 - [Policies](policies/README.md)
-  - [Terms of Use](policies/terms-of-service.md)
+  - [Terms of Use](policies/terms-of-use.md)
   - [Privacy Policy](policies/privacy.md)
   - [EULA](policies/eula.md)
   - [EULA for Beta-software](policies/eula-beta.md)
@@ -40,7 +40,7 @@
   - [DPA Annex A](policies/dpa-annex-a.md)
   - [Acceptable Use Policies](policies/aup.md)
   - [Slavery Statement](policies/slavery-statement.md)
-  - [sāf.ai Partnership Program](policies/var-partner.md)
+  - [sāf.ai Partnership Program](policies/ppa.md)
 
 ----------
 

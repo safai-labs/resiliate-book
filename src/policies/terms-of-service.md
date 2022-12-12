@@ -1,11 +1,5 @@
 # sāf.ai Terms of Service
 
-```{=latex}
-\pagebreak
-```
-```{=html}
-<div class="legal-block">
-```
 ## Terms of Service
 
 These Terms of Service (the \"Terms\") and any accompanying or future
@@ -38,24 +32,24 @@ the order of precedence is as follows: (1) the Order Form; (2) a
 statement of work mutually agreed by by both parties, as applicable
 (\"**SOW**\"); (3) this Terms of Services agreement.
 
-1.  Certain Definitions. Certain terms not defined elsewhere in the
+1. Certain Definitions. Certain terms not defined elsewhere in the
     Agreement are defined below in this Section. Capitalized terms used
     but not defined in an Order Form shall have the meaning assigned to
     them, if any, within these Terms.
-    1.  \"**Acceptable Use Policy**\" means the acceptable use policy
+    1. \"**Acceptable Use Policy**\" means the acceptable use policy
         governing the Platform Services, made available at
         <https://docs.saf.ai/policies/aup> (or such other location as
         sāf.ai may provide, and as may be updated from time to time).
-    2.  \"**Affiliate**\" of a party means an entity that Controls, is
+    2. \"**Affiliate**\" of a party means an entity that Controls, is
         Controlled by, or is under common Control with such party.
-    3.  \"**Applicable Data Protection Laws**\" means all world-wide
+    3. \"**Applicable Data Protection Laws**\" means all world-wide
         data protection and privacy Laws applicable to the processing of
         the Personal Data in question, including without limitation to
         the extent applicable, those of the United States, the European
         Economic Area (including the European Union and their member
         states, Switzerland, and the United Kingdom) (\"EEA\"), Canada,
         Australia, Japan, and Singapore.
-    4.  \"**Authorized User**\" means employees or agents of Customer
+    4. \"**Authorized User**\" means employees or agents of Customer
         (or other individuals solely to the extent explicitly permitted
         in an Order Form) selected by Customer to access and use the
         Subscription Services. \"BAA\" means a *business associate
@@ -64,15 +58,15 @@ statement of work mutually agreed by by both parties, as applicable
         regulated by HIPAA), governing the parties\' respective
         obligations with respect to any PHI that may be contained within
         Customer Content.
-    5.  \"**Beta Service**\" means any sāf.ai Service (or feature of a
+    5. \"**Beta Service**\" means any sāf.ai Service (or feature of a
         sāf.ai Service) that is clearly designated as \"beta\",
         \"experimental\", \"preview\" or similar, that is provided prior
         to general commercial release, and that sāf.ai at its sole
         discretion offers to Customer, and Customer at its sole
         discretion elects to use.
-    6.  \"**Cloud Provider**\" means, unless specified otherwise in an
+    6. \"**Cloud Provider**\" means, unless specified otherwise in an
         Order Form, Google Cloud Platform (\"GCP\").
-    7.  \"**Confidential Information**\" means any business or technical
+    7. \"**Confidential Information**\" means any business or technical
         information disclosed by either party to the other that is
         designated as confidential at the time of disclosure or that,
         under the circumstances, a person exercising reasonable business
@@ -97,13 +91,13 @@ statement of work mutually agreed by by both parties, as applicable
         to others; or (d) was independently developed by the receiving
         party without use of or reference to the Confidential
         Information.
-    8.  \"**Control**,\" \"**Controlled**\" or \"**Controlling**\"
+    8. \"**Control**,\" \"**Controlled**\" or \"**Controlling**\"
         means, whether direct or indirect: (a) the beneficial ownership
         of more than fifty percent (50%) of the voting equity
         securities, or the substantively equivalent voting interests, of
         an entity; or (b) the ability to determine the strategic
         direction or operating decisions of an entity.
-    9.  \"**Customer Cloud Environment**\" means the cloud environment
+    9. \"**Customer Cloud Environment**\" means the cloud environment
         provided by the Cloud Provider into which sāf.ai deploys the
         Customer Data Plane.
     10. \"**Customer Content**\" means all Customer Data, Customer
@@ -186,9 +180,11 @@ statement of work mutually agreed by by both parties, as applicable
         Support Services.
     30. \"**System**\" means any application, computing or storage
         device, or network.
-2.  **sāf.ai Services**.
-    1.  **Order Forms**.
-        a)  **Minimum Terms**. Order Forms for sāf.ai Services shall
+
+2. **sāf.ai Services**.
+    1. **Order Forms**.
+
+        a) **Minimum Terms**. Order Forms for sāf.ai Services shall
             identify: (i) specific sāf.ai Services to be provided, (ii)
             any limitations on permitted use that may differ from those
             set forth in these Terms, (iii) the service term or other
@@ -196,7 +192,8 @@ statement of work mutually agreed by by both parties, as applicable
             limitations on number or type of Authorized Users, and (vi)
             any other applicable terms and conditions (\"Minimum Order
             Terms\").
-        b)  **Direct Orders**; Reseller Orders. Customer may submit
+
+        b) **Direct Orders**; Reseller Orders. Customer may submit
             Order Forms directly through sāf.ai (each, a \"Direct
             Order\") or through a sāf.ai-authorized reseller
             (\"Authorized Reseller\", and such Order Form, a \"Reseller
@@ -208,38 +205,40 @@ statement of work mutually agreed by by both parties, as applicable
             prior approval and agrees that no term in any Reseller Order
             will be deemed to modify the Agreement unless pre-authorized
             in writing by sāf.ai.
-    2.  **Subscription Services**.
-        a)  **Authorized Users**.
+    2. **Subscription Services**.
 
-            i)  **Selecting Authorized Users**. If we have agreed to
-                provide you with Subscription Services, you may select
-                Authorized Users to access and use the Subscription
-                Services, subject to the restrictions set forth below
-                and to any numeric or other limits established in an
-                Order Form or as otherwise agreed to by the parties. You
-                must obtain separate credentials (user IDs and
-                passwords) via the Subscription Services for each
-                Authorized User.
-            ii) **Your Responsibilities Regarding Authorized Users**.
-                You shall at all times be responsible for and expressly
-                assume the risks associated with all use of the
-                Subscription Services under an Authorized User\'s
-                account (including for the payment of Fees related to
-                such use), whether such action was taken by an
-                Authorized User or by another party, and whether or not
-                such action was authorized by an Authorized User,
-                provided that such action was not (1) taken by sāf.ai or
-                by a party acting under the direction of sāf.ai or (2)
-                an action by a third party that sāf.ai should reasonably
-                have prevented. This responsibility includes the
-                security of each Authorized User\'s credentials, and you
-                shall not share (and shall instruct each Authorized User
-                not to share) such credentials with any other person or
-                entity, or otherwise permit any other person or entity
-                to access or use the Subscription Services, except to
-                the extent permitted in an Order Form.
+        a) **Authorized Users**.
 
-        b)  **Provision of the Subscription Services**. Subject to your,
+        i) **Selecting Authorized Users**. If we have agreed to
+            provide you with Subscription Services, you may select
+            Authorized Users to access and use the Subscription
+            Services, subject to the restrictions set forth below
+            and to any numeric or other limits established in an
+            Order Form or as otherwise agreed to by the parties. You
+            must obtain separate credentials (user IDs and
+            passwords) via the Subscription Services for each
+            Authorized User.
+
+        ii) **Your Responsibilities Regarding Authorized Users**.
+            You shall at all times be responsible for and expressly
+            assume the risks associated with all use of the
+            Subscription Services under an Authorized User\'s
+            account (including for the payment of Fees related to
+            such use), whether such action was taken by an
+            Authorized User or by another party, and whether or not
+            such action was authorized by an Authorized User,
+            provided that such action was not (1) taken by sāf.ai or
+            by a party acting under the direction of sāf.ai or (2)
+            an action by a third party that sāf.ai should reasonably
+            have prevented. This responsibility includes the
+            security of each Authorized User\'s credentials, and you
+            shall not share (and shall instruct each Authorized User
+            not to share) such credentials with any other person or
+            entity, or otherwise permit any other person or entity
+            to access or use the Subscription Services, except to
+            the extent permitted in an Order Form.
+
+        b) **Provision of the Subscription Services**. Subject to your,
             and your Authorized Users\', compliance with the terms and
             conditions of this Agreement (including payment of any Fees
             as due under Section 5 (Payment)), sāf.ai will provide you
@@ -264,89 +263,90 @@ statement of work mutually agreed by by both parties, as applicable
             foregoing shall not be read to imply ownership by Customer
             in such libraries.
 
-        c)  **Shared Responsibility Deployment**.
+        c) **Shared Responsibility Deployment**.
 
-            i)  **Generally**. You acknowledge that the Platform
-                Services are implemented in a manner that divides the
-                Platform Services between the Customer Cloud Environment
-                and the sāf.ai Control Plane, and that accordingly each
-                party must undertake certain technical and
-                organizational measures in order to protect the Platform
-                Services and the Customer Content. Without limiting the
-                foregoing, Customer acknowledges and agrees that (1) in
-                order to utilize the Platform Services, Customer must
-                have an account with the Cloud Provider; (2) sāf.ai does
-                not host the Customer Cloud Environment into which the
-                Platform Services are deployed or the Systems in which
-                your Customer Data may be stored (e.g., an AWS S3
-                bucket); (3) while certain Customer Data may
-                occasionally be present within the Platform Services
-                (e.g., within the Customer Results), the Platform
-                Services are not designed to archive or permanently
-                retain Customer Data, but merely to provide an
-                environment to facilitate Customer\'s processing of
-                Customer Data within the Customer Cloud Environment by
-                permitting Customer to generate and execute Customer
-                Instructional Input and view Customer Results; and (4)
-                sāf.ai and the Platform Services do not provide backup
-                services or disaster recovery to enable recovery of
-                Customer Data. Accordingly, and without limiting the
-                foregoing, but subject to Section 9.1, sāf.ai is not
-                responsible for any loss, destruction, alteration, or
-                corruption of Customer Content, except to the extent
-                caused by the gross negligence or willful misconduct of
-                sāf.ai or to the extent caused by any third party that
-                sāf.ai should reasonably have prevented from having
-                access.
-            ii) **Customer Responsibilities**. Customer acknowledges and
-                agrees that Customer is responsible for (1) protecting
-                the security of all Customer credentials used to access
-                the Subscription Services (with sāf.ai also responsible
-                for taking adequate steps to protect Customer
-                credentials to the extent such credentials are within
-                the control of sāf.ai); (2) securing the Customer Cloud
-                Environment and any Customer System (with such steps to
-                include without limitation the regular rotation of
-                access keys and other industry standard steps to
-                preclude unauthorized access); (3) backing up Customer
-                Instructional Input (e.g., via Github or other third
-                party system); (4) backing up and securing Customer Data
-                under Customer\'s control within the Customer Cloud
-                Environment or other Customer controlled System (e.g.,
-                by turning on versioning and encryption within AWS S3);
-                and (5) any security or other issues resulting from any
-                Customer Instructional Input, and Customer expressly
-                assumes the risks associated with the foregoing
-                responsibilities.
+        i) **Generally**. You acknowledge that the Platform
+            Services are implemented in a manner that divides the
+            Platform Services between the Customer Cloud Environment
+            and the sāf.ai Control Plane, and that accordingly each
+            party must undertake certain technical and
+            organizational measures in order to protect the Platform
+            Services and the Customer Content. Without limiting the
+            foregoing, Customer acknowledges and agrees that (1) in
+            order to utilize the Platform Services, Customer must
+            have an account with the Cloud Provider; (2) sāf.ai does
+            not host the Customer Cloud Environment into which the
+            Platform Services are deployed or the Systems in which
+            your Customer Data may be stored (e.g., an AWS S3
+            bucket); (3) while certain Customer Data may
+            occasionally be present within the Platform Services
+            (e.g., within the Customer Results), the Platform
+            Services are not designed to archive or permanently
+            retain Customer Data, but merely to provide an
+            environment to facilitate Customer\'s processing of
+            Customer Data within the Customer Cloud Environment by
+            permitting Customer to generate and execute Customer
+            Instructional Input and view Customer Results; and (4)
+            sāf.ai and the Platform Services do not provide backup
+            services or disaster recovery to enable recovery of
+            Customer Data. Accordingly, and without limiting the
+            foregoing, but subject to Section 9.1, sāf.ai is not
+            responsible for any loss, destruction, alteration, or
+            corruption of Customer Content, except to the extent
+            caused by the gross negligence or willful misconduct of
+            sāf.ai or to the extent caused by any third party that
+            sāf.ai should reasonably have prevented from having
+            access.
 
-            iii\) **sāf.ai Responsibilities**. sāf.ai acknowledges and
+        ii) **Customer Responsibilities**. Customer acknowledges and
+            agrees that Customer is responsible for (1) protecting
+            the security of all Customer credentials used to access
+            the Subscription Services (with sāf.ai also responsible
+            for taking adequate steps to protect Customer
+            credentials to the extent such credentials are within
+            the control of sāf.ai); (2) securing the Customer Cloud
+            Environment and any Customer System (with such steps to
+            include without limitation the regular rotation of
+            access keys and other industry standard steps to
+            preclude unauthorized access); (3) backing up Customer
+            Instructional Input (e.g., via Github or other third
+            party system); (4) backing up and securing Customer Data
+            under Customer\'s control within the Customer Cloud
+            Environment or other Customer controlled System (e.g.,
+            by turning on versioning and encryption within AWS S3);
+            and (5) any security or other issues resulting from any
+            Customer Instructional Input, and Customer expressly
+            assumes the risks associated with the foregoing
+            responsibilities.
 
-            :   agrees that, as between the parties and except to the
-                extent caused by the action or intentional or negligent
-                inaction of Customer or Customer\'s Authorized Users,
-                including without limitation any customizations or
-                configurations of the Platform Services by Customer or
-                anything specified to be Customer\'s responsibility in
-                (ii), above, sāf.ai is primarily responsible for (1) the
-                operation (excluding to the extent such operation is
-                directed by the Customer Instructional Content) of the
-                sāf.ai Control Plane (including the user interface of
-                the Platform Services and the portion of the Platform
-                Services within the sāf.ai Control Plane in which the
-                Customer Instructional Input and Customer Results are
-                held until deleted by Customer) and the sāf.ai software
-                that operates the computing resources in the Customer
-                Data Plane; and (2) implementing reasonable technical
-                and organizational measures designed in accordance with
-                the ISMS Standard (defined below) to protect the
-                security of the foregoing. Additionally, while it is
-                Customer\'s responsibility to back up Customer
-                Instructional Input, sāf.ai will, at Customer\'s
-                reasonable request, provide commercially reasonable
-                assistance with recovery efforts where reasonably
-                possible.
-    3.  **Training Services**.
-        a.  **Generally**. sāf.ai may provide, as set forth in an Order
+        iii) **sāf.ai Responsibilities**. sāf.ai acknowledges and
+            agrees that, as between the parties and except to the
+            extent caused by the action or intentional or negligent
+            inaction of Customer or Customer\'s Authorized Users,
+            including without limitation any customizations or
+            configurations of the Platform Services by Customer or
+            anything specified to be Customer\'s responsibility in
+            (ii), above, sāf.ai is primarily responsible for (1) the
+            operation (excluding to the extent such operation is
+            directed by the Customer Instructional Content) of the
+            sāf.ai Control Plane (including the user interface of
+            the Platform Services and the portion of the Platform
+            Services within the sāf.ai Control Plane in which the
+            Customer Instructional Input and Customer Results are
+            held until deleted by Customer) and the sāf.ai software
+            that operates the computing resources in the Customer
+            Data Plane; and (2) implementing reasonable technical
+            and organizational measures designed in accordance with
+            the ISMS Standard (defined below) to protect the
+            security of the foregoing. Additionally, while it is
+            Customer\'s responsibility to back up Customer
+            Instructional Input, sāf.ai will, at Customer\'s
+            reasonable request, provide commercially reasonable
+            assistance with recovery efforts where reasonably
+            possible.
+    3. **Training Services**.
+
+        a. **Generally**. sāf.ai may provide, as set forth in an Order
             Form, certain Training Services, delivered (i) by
             instructors (\"Instructor-led Training Services\"), either
             in person or online-only; or (ii) as a self-paced online
@@ -358,7 +358,8 @@ statement of work mutually agreed by by both parties, as applicable
             Services, but unless agreed between the parties in writing,
             shall not provide sāf.ai any Customer Data for use with the
             Training Services.
-        b.  **Instructor-led Training Services**. If we have agreed to
+
+        b. **Instructor-led Training Services**. If we have agreed to
             provide you with Instructor-led Training Services, except as
             otherwise mutually agreed upon by the parties, you shall, as
             reasonably applicable: (i) provide qualified personnel to
@@ -374,59 +375,67 @@ statement of work mutually agreed by by both parties, as applicable
             required to permit sāf.ai to perform the Instructor-led
             Training Services, including any such duties and tasks that
             may be set forth in an Order Form.
-        c.  **Self-Paced Training Services**. sāf.ai may make available
+
+        c. **Self-Paced Training Services**. sāf.ai may make available
             certain Self-Paced Training Services. Unless otherwise set
             forth in an Order Form or when signing up for a Self-Paced
             Training Service, the Self-Paced Training Services shall
             expire 12 months from the earlier of purchase or activation
             and are licensed on a per-user basis.
-    4.  **Professional Services**. Terms regarding the delivery of
+    4. **Professional Services**. Terms regarding the delivery of
         Professional Services, if applicable, shall be set forth in an
         Order Form.
-        a.  **Generally**. Subject to the Order Form, sāf.ai will
+
+        a. **Generally**. Subject to the Order Form, sāf.ai will
             provide Professional Services designed to initiate and/or
             facilitate your ability to effectively utilize saf.ai
             platform. Unless otherwise agreed by the parties,
             Professional Services will expire 1 year after the Start
             Date indicated on the Order Form and will be booked on the
             basis of 7.5-hour service days.
-        b.  **Expenses**. You agree to reimburse sāf.ai for reasonable
+
+        b. **Expenses**. You agree to reimburse sāf.ai for reasonable
             travel and lodging expenses actually incurred by sāf.ai
-        c.  **Intellectual Property**.
-            i.  sāf.ai, upon your payment of all fees and charges
-                accruing under the Order Form, grants you a
-                non-exclusive, perpetual, fully paid-up, royalty-free
-                license to use, copy, modify, or create derivative works
-                based on any Professional Services work product
-                delivered hereunder by sāf.ai to you, as may be further
-                described in an SOW (the "**Deliverables**"). If and to
-                the extent sāf.ai incorporates any **sāf.ai Materials**
-                (as defined below) into the Deliverables, sāf.ai grants
-                to you a non-exclusive, perpetual, fully paid-up,
-                royalty-free license to use, copy, modify or create
-                derivative works based on such sāf.ai Materials, solely
-                as incorporated into the Deliverables and solely for
-                your internal or external business use as reasonably
-                necessary to use the Deliverables for their intended
-                purposes. For the avoidance of doubt, no part of the
-                Platform Services shall be deemed to be incorporated
-                into the Deliverables.
-            ii. Subject to your rights in your Confidential Information,
-                sāf.ai will exclusively own all rights, title and
-                interest in and to: (i) the Deliverables; and (ii) any
-                software programs, tools, utilities, processes,
-                inventions, devices, methodologies, specifications,
-                documentation, techniques, training materials, and other
-                materials of any kind used or developed by sāf.ai or its
-                personnel in connection with performing the Professional
-                Services, or any other sāf.ai Services (collectively
-                \"**sāf.ai Materials**\"), including all Intellectual
-                Property Rights in any of the foregoing.
-            iii. Unless otherwise set forth in the Order Form or an SOW,
-                 the Deliverables are not subject to any maintenance,
-                 support or updates after the termination of the Order
-                 Form.
-        d.  **Change Order**. From time to time, you and sāf.ai may be
+
+        c. **Intellectual Property**.
+
+        i. sāf.ai, upon your payment of all fees and charges
+            accruing under the Order Form, grants you a
+            non-exclusive, perpetual, fully paid-up, royalty-free
+            license to use, copy, modify, or create derivative works
+            based on any Professional Services work product
+            delivered hereunder by sāf.ai to you, as may be further
+            described in an SOW (the "**Deliverables**"). If and to
+            the extent sāf.ai incorporates any **sāf.ai Materials**
+            (as defined below) into the Deliverables, sāf.ai grants
+            to you a non-exclusive, perpetual, fully paid-up,
+            royalty-free license to use, copy, modify or create
+            derivative works based on such sāf.ai Materials, solely
+            as incorporated into the Deliverables and solely for
+            your internal or external business use as reasonably
+            necessary to use the Deliverables for their intended
+            purposes. For the avoidance of doubt, no part of the
+            Platform Services shall be deemed to be incorporated
+            into the Deliverables.
+
+        ii. Subject to your rights in your Confidential Information,
+            sāf.ai will exclusively own all rights, title and
+            interest in and to: (i) the Deliverables; and (ii) any
+            software programs, tools, utilities, processes,
+            inventions, devices, methodologies, specifications,
+            documentation, techniques, training materials, and other
+            materials of any kind used or developed by sāf.ai or its
+            personnel in connection with performing the Professional
+            Services, or any other sāf.ai Services (collectively
+            \"**sāf.ai Materials**\"), including all Intellectual
+            Property Rights in any of the foregoing.
+
+        iii. Unless otherwise set forth in the Order Form or an SOW,
+             the Deliverables are not subject to any maintenance,
+             support or updates after the termination of the Order
+             Form.
+
+        d. **Change Order**. From time to time, you and sāf.ai may be
             required to adjust the Professional Services based on
             technical developments, schedules, fees, or other
             requirements. Any material changes to an SOW or the Order
@@ -436,24 +445,28 @@ statement of work mutually agreed by by both parties, as applicable
             the Professional Services and the impact on the time of
             performance and Fees. Once executed, a Change Order will
             become part of the SOW and/or Order Form, as applicable.
-        e.  **Customer Obligations**. You acknowledge that successful
+
+        e. **Customer Obligations**. You acknowledge that successful
             delivery of the Professional Services depends on your full
             and timely cooperation. You agree to make available any
             reasonably requested personnel and/or information in a
             timely manner to allow sāf.ai to perform such services.
-        f.  **Additional Warranty**. sāf.ai warrants that it will
+
+        f. **Additional Warranty**. sāf.ai warrants that it will
             perform the Professional Services in a professional and
             workmanlike manner by qualified personnel and in accordance
             with generally accepted industry standards. sāf.ai makes no
             guarantee as to whether the Professional Services will be
             completed within any specific time frame.
-        g.  **Requirements; Limitations**. sāf.ai will provide the
+
+        g. **Requirements; Limitations**. sāf.ai will provide the
             Professional Services at a mutually agreed location and
             substantially on a mutually agreed time schedule. sāf.ai
             will adhere while on Customer\'s premises with reasonable
             policies provided by Customer to sāf.ai in writing in
             advance.
-        h.  **Business Relationship**. saf.ai\'s relationship with
+
+        h. **Business Relationship**. saf.ai\'s relationship with
             Customer is that of an independent contractor, and nothing
             in this Agreement will be construed to create a partnership,
             agency, joint venture, employment or similar relationship.
@@ -462,7 +475,7 @@ statement of work mutually agreed by by both parties, as applicable
             Agreement or otherwise. Neither Party will have any right to
             act for, represent or otherwise bind the other Party in any
             manner, except as expressly authorized by such other Party.
-    5.  **Downloadable Services**. sāf.ai may make available to you
+    5. **Downloadable Services**. sāf.ai may make available to you
         certain sāf.ai Services as software from time to time in a
         downloadable manner (\"Downloadable Services\"). Unless
         expressly stated otherwise at the time of download or as
@@ -471,7 +484,7 @@ statement of work mutually agreed by by both parties, as applicable
         non-exclusive, royalty-free right and license to use and copy
         during the term of this Agreement the Downloadable Services
         solely as necessary to enable your use of the sāf.ai Services.
-    6.  **Beta Services**. If you elect to receive any Beta Services
+    6. **Beta Services**. If you elect to receive any Beta Services
         offered by sāf.ai, you agree that, in addition to adhering to
         all other restrictions generally applicable to your use of the
         Subscription Services under this Agreement and any requirements
@@ -481,7 +494,7 @@ statement of work mutually agreed by by both parties, as applicable
         not use sensitive data (e.g., PHI or Cardholder Data) in
         conjunction with such Beta Services unless explicitly permitted
         in an Order Form.
-    7.  **Feedback**. You are under no duty to provide any suggestions,
+    7. **Feedback**. You are under no duty to provide any suggestions,
         enhancement requests, or other feedback regarding the sāf.ai
         Services (\"Feedback\"). If you choose to offer Feedback to
         sāf.ai, you hereby grant sāf.ai a perpetual, irrevocable,
@@ -490,7 +503,7 @@ statement of work mutually agreed by by both parties, as applicable
         any Feedback sāf.ai receives from you. You also irrevocably
         waive in favor of sāf.ai any moral rights which you may have in
         such Feedback pursuant to applicable copyright law.
-    8.  **Ownership of the sāf.ai Services**. Except as expressly set
+    8. **Ownership of the sāf.ai Services**. Except as expressly set
         forth in this Agreement, sāf.ai retains all Intellectual
         Property Rights and all other proprietary rights related to the
         sāf.ai Services. You shall not delete or alter the copyright,
@@ -504,14 +517,14 @@ statement of work mutually agreed by by both parties, as applicable
         individual modules or programs, constitute or contain trade
         secrets and other Intellectual Property Rights of sāf.ai and its
         licensors.
-    9.  **Compliance with Customer Onsite Access Policies**. If in the
+    9. **Compliance with Customer Onsite Access Policies**. If in the
         course of providing Training Services or any other sāf.ai
         Services, sāf.ai personnel go onsite at Customer\'s premises,
         sāf.ai shall require such personnel to comply with Customer\'s
         commercially reasonable onsite access policies that have been
         provided by Customer to such personnel reasonably in advance.
-3.  **Customer Obligations; Customer Data**.
-    1.  **Customer Responsibilities**. In addition to the
+3. **Customer Obligations; Customer Data**.
+    1. **Customer Responsibilities**. In addition to the
         responsibilities set forth in Section 2.2(c), Customer is
         responsible for ensuring that sāf.ai at all times has updated
         and accurate contact information for the appropriate person for
@@ -520,34 +533,41 @@ statement of work mutually agreed by by both parties, as applicable
         each Order Form and any subsequent changes to be provided by
         email to <customercontact@saf.ai> (with \"Contact Detail
         Change\" in the subject).
-    2.  **Restrictions on Use**. You shall not (and shall not permit
+    2. **Restrictions on Use**. You shall not (and shall not permit
         your Authorized Users to):
-        a.  violate the Acceptable Use Policy;
-        b.  copy, modify, disassemble, decompile, reverse engineer, or
+
+        a. violate the Acceptable Use Policy;
+
+        b. copy, modify, disassemble, decompile, reverse engineer, or
             attempt to view or discover the source code of the sāf.ai
             Services, in whole or in part, or permit or authorize a
             third party to do so, except to the extent such activities
             are expressly permitted by this Agreement or by law
             notwithstanding this prohibition;
-        c.  sell, resell, license, sublicense, distribute, rent, lease,
+
+        c. sell, resell, license, sublicense, distribute, rent, lease,
             or otherwise provide access to the sāf.ai Services to any
             third party except to the extent explicitly authorized in
             writing by sāf.ai;
-        d.  use the sāf.ai Services to develop or offer a service made
+
+        d. use the sāf.ai Services to develop or offer a service made
             available to any third party that could reasonably be seen
             to serve as a substitute for such third party\'s possible
             subscription to any sāf.ai product or service;
-        e.  transfer or assign any of your rights hereunder except as
+
+        e. transfer or assign any of your rights hereunder except as
             permitted under Section 12.5; or
-        f.  during any free trial period granted by sāf.ai, including
+
+        f. during any free trial period granted by sāf.ai, including
             during the use of any Beta Service, use the sāf.ai Services
             for any purpose other than to evaluate the desirability of
             entering into a paid subscription to the sāf.ai Services (in
             which case sāf.ai reserves the right to charge you for such
             use at sāf.ai\'s standard rates without foregoing any other
             available remedies).
-    3.  **Customer Data and Customer Instructional Input**.
-        a.  **Ownership; Usage Data**. As between you and sāf.ai, you
+    3. **Customer Data and Customer Instructional Input**.
+
+        a. **Ownership; Usage Data**. As between you and sāf.ai, you
             retain all ownership rights in Customer Content.
             Notwithstanding the foregoing, you acknowledge and agree
             that sāf.ai may collect usage data and telemetry regarding
@@ -562,7 +582,7 @@ statement of work mutually agreed by by both parties, as applicable
             manner that derives its value from the unique aspects of
             your Customer Instructional Input.
 
-        b.  **PHI Data under HIPAA**. You agree that you may not include
+        b. **PHI Data under HIPAA**. You agree that you may not include
             in Customer Data or Customer Instructional Input, or
             generate any Customer Results that include, any PHI unless
             you have entered into (i) an Order Form that explicitly
@@ -578,7 +598,7 @@ statement of work mutually agreed by by both parties, as applicable
             this Agreement or in HIPAA or any similar Laws to the
             contrary.
 
-        c.  **Cardholder Data Under PCI-DSS**. You agree that you may
+        c. **Cardholder Data Under PCI-DSS**. You agree that you may
             not include in Customer Data or Customer Instructional
             Input, or generate any Customer Results that include, any
             cardholder data as defined under PCI-DSS (\"Cardholder
@@ -596,26 +616,26 @@ statement of work mutually agreed by by both parties, as applicable
             Data, notwithstanding anything in this Agreement or in
             PCI-DSS or any similar regulations to the contrary.
 
-        d.  **Additional Limitations**. You represent and warrant to
+        d. **Additional Limitations**. You represent and warrant to
             sāf.ai that your use of sāf.ai Services shall comply with
             all applicable Laws, including without limitation any
             Applicable Data Protection Laws, and that, without limiting
             the foregoing, Customer Data and Customer Instructional
             Input shall not contain:
 
-            i.  any data for which you do not have all rights, power and
-                authority necessary for its collection, use and
-                processing as contemplated by this Agreement;
-            ii. any data with respect to which your use and provision to
-                sāf. ai pursuant to this Agreement would breach any
-                agreement between you and any third party; or
+        i. any data for which you do not have all rights, power and
+            authority necessary for its collection, use and
+            processing as contemplated by this Agreement;
 
-            iii\. any data with respect to which its usage as contemplated
+        ii. any data with respect to which your use and provision to
+            sāf. ai pursuant to this Agreement would breach any
+            agreement between you and any third party; or
 
-            :   herein would violate any applicable Laws, including
-                without limitation any Applicable Data Protection Laws.
-4.  **Term**.
-    1.  **Term of Agreement**. This Agreement shall become effective on
+        iii. any data with respect to which its usage as contemplated
+            herein would violate any applicable Laws, including
+            without limitation any Applicable Data Protection Laws.
+4. **Term**.
+    1. **Term of Agreement**. This Agreement shall become effective on
         the Effective Date and shall continue in full force and effect
         until terminated by either party pursuant to this Section 4. The
         Agreement may be terminated by either party without cause on
@@ -640,9 +660,9 @@ statement of work mutually agreed by by both parties, as applicable
         are equivalent or substantially similar to any of the foregoing
         under any applicable jurisdiction, or ceases to conduct business
         or threatens to do so.
-    2.  **Term of Order Forms**. The Term of an Order Form shall be as
+    2. **Term of Order Forms**. The Term of an Order Form shall be as
         specified in the Order Form.
-    3.  **Monthly PAYG Services**. Notwithstanding anything in this
+    3. **Monthly PAYG Services**. Notwithstanding anything in this
         Agreement to the contrary, sāf.ai may suspend or terminate any
         Monthly PAYG Services account, and delete any Customer Content
         relating to such account that may be stored within the
@@ -650,7 +670,7 @@ statement of work mutually agreed by by both parties, as applicable
         thirty (30) day\'s prior written notice (email sufficient) if
         sāf.ai reasonably determines the account is inactive as set
         forth in the Acceptable Use Policy.
-    4.  **Suspension; Termination**. sāf.ai may temporarily suspend or
+    4. **Suspension; Termination**. sāf.ai may temporarily suspend or
         terminate the sāf.ai Services at any time (a) immediately
         without notice if sāf.ai reasonably suspects that you have
         violated Section 3 or your responsibilities set forth in Section
@@ -662,7 +682,7 @@ statement of work mutually agreed by by both parties, as applicable
         your Responsible Customer (as defined below) fail to pay
         undisputed Fees after receiving notice that you are more than
         thirty (30) days delinquent in payment.
-    5.  **Effects of Termination**. Upon termination for any reason, you
+    5. **Effects of Termination**. Upon termination for any reason, you
         shall purge all stored elements of the sāf.ai Services from your
         Systems, sāf.ai will, upon your written request, purge all your
         Confidential Information from its Systems, and each party, upon
@@ -671,7 +691,7 @@ statement of work mutually agreed by by both parties, as applicable
         should survive termination shall so survive, including without
         limitation each party\'s confidentiality obligations under
         Section 6.
-5.  **Payment**. Unless Customer\'s usage of the sāf.ai Services is
+5. **Payment**. Unless Customer\'s usage of the sāf.ai Services is
     being paid for by a third party under contract with sāf.ai (such
     third party, the \"**Responsible Customer**\"), Customer shall pay
     all Fees specified in the applicable Order Form. With respect to
@@ -689,8 +709,8 @@ statement of work mutually agreed by by both parties, as applicable
     month. You shall be solely responsible for payment of any applicable
     sales, value added or use taxes, or similar government fees or
     taxes.
-6.  **Confidentiality; Data Protection**.
-    1.  **Confidentiality**. A receiving party will not use the
+6. **Confidentiality; Data Protection**.
+    1. **Confidentiality**. A receiving party will not use the
         disclosing party\'s Confidential Information except as permitted
         under this Agreement or to enforce its rights under this
         Agreement and will not disclose such Confidential Information to
@@ -717,7 +737,7 @@ statement of work mutually agreed by by both parties, as applicable
         Date) that would purport to address the confidentiality and
         security of Customer Data and such agreement shall have no
         further force or effect with respect to Customer Data.
-    2.  **Data Protection**. sāf.ai is certified as ISO/IEC 27001:2013
+    2. **Data Protection**. sāf.ai is certified as ISO/IEC 27001:2013
         compliant as of the Effective Date and shall remain certified to
         this or an equivalent or greater standard (the \"ISMS
         Standard\") throughout the term of this Agreement. sāf.ai will
@@ -743,8 +763,8 @@ statement of work mutually agreed by by both parties, as applicable
         Customer\'s or an applicable Affiliate\'s execution of an Order
         Form, shall be treated as its execution of the Standard
         Contractual Clauses and Appendices.
-7.  **Warranties; Disclaimer**.
-    1.  **Warranties**. sāf.ai warrants that, during the term of the
+7. **Warranties; Disclaimer**.
+    1. **Warranties**. sāf.ai warrants that, during the term of the
         Agreement, it will employ appropriate industry standards of
         practice designed to: (a) ensure that its provision of the
         sāf.ai Services under this Agreement will not infringe any third
@@ -756,7 +776,7 @@ statement of work mutually agreed by by both parties, as applicable
         Content; and (e) ensure that the Platform Services operate
         during the applicable Order Form term(s) substantially in
         accordance with the Documentation.
-    2.  **Disclaimer**. **THE WARRANTIES IN SECTION 7.1 ARE EXCLUSIVE
+    2. **Disclaimer**. **THE WARRANTIES IN SECTION 7.1 ARE EXCLUSIVE
         AND IN LIEU OF ALL OTHER WARRANTIES, EXPRESS, IMPLIED OR
         STATUTORY, REGARDING SĀF.AI AND SĀF.AI\'S SERVICES PROVIDED
         HEREUNDER. SUBJECT TO SECTION 9.1, SĀF.AI SPECIFICALLY DISCLAIMS
@@ -776,8 +796,8 @@ statement of work mutually agreed by by both parties, as applicable
         CONSTITUTE SĀF.AI\'S SOLE LIABILITY AND YOUR SOLE AND EXCLUSIVE
         REMEDY IN THE EVENT OF ANY LOSS OR CORRUPTION OF CUSTOMER
         CONTENT IN CONNECTION WITH THE SĀF.AI SERVICES**.
-8.  **Indemnification**.
-    1.  **Indemnification by sāf.ai**. Subject to Section 8.5, sāf.ai
+8. **Indemnification**.
+    1. **Indemnification by sāf.ai**. Subject to Section 8.5, sāf.ai
         will defend Customer against any claim, demand, suit or
         proceeding made or brought against Customer by a third party (a
         \"Claim Against Customer\") alleging that the sāf.ai Services as
@@ -803,7 +823,7 @@ statement of work mutually agreed by by both parties, as applicable
         combination, operation or use; or (c) your or an Authorized
         User\'s use of the sāf.ai Services other than in accordance with
         the Documentation and this Agreement.
-    2.  **Injunction**. If sāf.ai receives information about an
+    2. **Injunction**. If sāf.ai receives information about an
         infringement or misappropriation claim related to a sāf.ai
         Service, then sāf.ai may at its sole option and expense: (a)
         replace or modify the applicable sāf.ai Services to make them
@@ -815,7 +835,7 @@ statement of work mutually agreed by by both parties, as applicable
         this Agreement with respect to such sāf.ai Services and refund
         to you any Fees prepaid by you for sāf.ai Services not yet
         provided.
-    3.  **Indemnification by Customer**. Subject to Section 8.5,
+    3. **Indemnification by Customer**. Subject to Section 8.5,
         Customer shall defend sāf.ai and its Affiliates and its and each
         of their officers, employees, directors, and agents (each, a
         \"sāf.ai Indemnitee\") against any claim, demand, suit or
@@ -835,7 +855,7 @@ statement of work mutually agreed by by both parties, as applicable
         SĀF.AI AND ITS LICENSORS WITH RESPECT TO ANY ALLEGED OR ACTUAL
         INFRINGEMENT OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS
         BY THE SĀF.AI SERVICES.
-    4.  **Conditions of Indemnification**. As a condition to an
+    4. **Conditions of Indemnification**. As a condition to an
         indemnifying party\'s (each, an \"**Indemnitor**\") obligations
         under this Section 8, a party seeking indemnification (each, an
         \"**Indemnitee**\") will: (a) promptly notify the Indemnitor of
@@ -860,21 +880,25 @@ statement of work mutually agreed by by both parties, as applicable
         settlement of any claim. The Indemnitor will not be liable for
         any settlement or compromise that an Indemnitee enters into
         without the Indemnitor\'s prior written consent.
-9.  **Limitation of Liability**.
-    1.  Nothing in this Agreement shall limit either party\'s liability
+9. **Limitation of Liability**.
+    1. Nothing in this Agreement shall limit either party\'s liability
         for the Excluded Claims; or any other liability that cannot be
         excluded or limited by applicable Laws.
-    2.  Subject to Section 9.1, neither party nor its Affiliates shall
+    2. Subject to Section 9.1, neither party nor its Affiliates shall
         be liable for any:
+
         a.  loss of profits or revenue;
+
         b.  loss from damage to business or goodwill;
+
         c.  loss arising from inaccurate or unexpected results of
             algorithms submitted by the other party to the sāf.ai
             Services; or
+
         d.  other indirect, incidental, special, punitive, or
             consequential loss or damages; even if a party has been
             advised of the possibility of such losses or damages arising
-    3.  SUBJECT TO SECTION 9.1, IN NO EVENT SHALL THE AGGREGATE
+    3. SUBJECT TO SECTION 9.1, IN NO EVENT SHALL THE AGGREGATE
         LIABILITY OF EACH PARTY TOGETHER WITH ALL OF ITS AFFILIATES
         ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL
         AMOUNT PAID BY CUSTOMER AND ITS AFFILIATES HEREUNDER FOR THE
@@ -884,7 +908,7 @@ statement of work mutually agreed by by both parties, as applicable
         IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY,
         BUT WILL NOT LIMIT CUSTOMER\'S AND ITS AFFILIATES\' PAYMENT
         OBLIGATIONS UNDER THE \"FEES AND PAYMENT\" SECTION ABOVE.
-    4.  Notwithstanding the previous paragraph, but subject to Section
+    4. Notwithstanding the previous paragraph, but subject to Section
         9.1, any liability relating to sāf.ai Services provided free of
         charge, including any Beta Services or sāf.ai Services provided
         during a free trial period, shall be limited to five thousand US
@@ -906,26 +930,16 @@ statement of work mutually agreed by by both parties, as applicable
     equitable remedies obtained shall be in addition to, and not
     foreclose, any other remedies that may be available.
 12. General.
-    1.  **Governing Law and Venue**. The governing law and exclusive
+    1. **Governing Law and Venue**. The governing law and exclusive
         venue applicable to any lawsuit or other dispute arising in
         connection with this Agreement shall be determined by the
         location of Customer\'s principal place of business
         (\"Domicile\"), as follows:
 
-        +-----------------+-----------------+-----------------------------------+
-        | Customer\'s     | Governing Law   | Venue                             |
-        | Domicile        |                 |                                   |
-        |                 |                 | (courts width exclusive           |
-        |                 |                 | jurisdiction)                     |
-        +=================+=================+===================================+
-        | North America   | Maryland        | Maryland                          |
-        |                 |                 |                                   |
-        |                 |                 | (state and U.S. federal courts)   |
-        +-----------------+-----------------+-----------------------------------+
-        | Europe; South   |                 | Delaware                          |
-        | America; Middle |                 |                                   |
-        | East; Africa    |                 | (state and U.S. federal courts)   |
-        +-----------------+-----------------+-----------------------------------+
+        | Customer's Domicile  | Governing Law | Venue (courts width exclusive jurisdiction |
+        |:--------------------:|:-------------:|:------------------------------------------:|
+        | North America | Maryland | Maryland (state and U.S. federal courts) |
+        | Europe; South America; Middle East; Africa |  | Delaware (state and U.S. federal courts) |
 
         The parties hereby irrevocably consent to the personal
         jurisdiction and venue of the courts in the venues shown above.
@@ -934,7 +948,7 @@ statement of work mutually agreed by by both parties, as applicable
         United Nations Convention on Contracts for the International
         Sale of Goods shall not apply.
 
-    2.  **U.S. Government Users**. If Customer is a U.S. government
+    2. **U.S. Government Users**. If Customer is a U.S. government
         entity, or this Agreement otherwise becomes subject to the
         Federal Acquisition Regulation (FAR), Customer acknowledges that
         the Platform Services constitute software and documentation
@@ -944,7 +958,7 @@ statement of work mutually agreed by by both parties, as applicable
         software subject to the restricted rights described in 48 C.F.R.
         12.212.
 
-    3.  **Insurance Coverage**. sāf.ai will maintain commercially
+    3. **Insurance Coverage**. sāf.ai will maintain commercially
         appropriate insurance coverage given the nature of the sāf.ai
         Services and sāf.ai\'s obligations under this Agreement. Such
         insurance will be in an industry standard form with admitted
@@ -953,7 +967,7 @@ statement of work mutually agreed by by both parties, as applicable
         coverage. Upon Customer\'s request, sāf.ai will provide to
         Customer proof evidencing sāf.ai\'s insurance coverage.
 
-    4.  **Entire Agreement, Construction, Amendment and Execution**.
+    4. **Entire Agreement, Construction, Amendment and Execution**.
         This Agreement (including all Order Forms) is the complete and
         exclusive understanding and agreement between the parties
         regarding its subject matter. Nothing in the preceding sentence
@@ -988,7 +1002,7 @@ statement of work mutually agreed by by both parties, as applicable
         any document by electronic means shall be deemed to bind such
         party as if signed and transmitted in physical form.
 
-    5.  **Assignment**. No assignment, novation or transfer of a
+    5. **Assignment**. No assignment, novation or transfer of a
         party\'s rights and obligations under this Agreement
         (\"Assignment\") is permitted except with the prior written
         approval of the other party, which shall not be unreasonably
@@ -996,7 +1010,7 @@ statement of work mutually agreed by by both parties, as applicable
         an Assignment to a successor in interest upon a change of
         Control.
 
-    6.  **Notice**. Any required notice under this Agreement shall be
+    6. **Notice**. Any required notice under this Agreement shall be
         deemed given when received by letter delivered by nationally
         recognized overnight delivery service or recorded prepaid mail.
         Unless notified in writing of a change of address, you shall
@@ -1009,7 +1023,7 @@ statement of work mutually agreed by by both parties, as applicable
         providing notice reasonably believes to have responsibility for
         the other party\'s activities under this Agreement.
 
-    7.  **Force Majeure**. Notwithstanding anything herein to the
+    7. **Force Majeure**. Notwithstanding anything herein to the
         contrary, Customer understands and agrees that its use of the
         sāf.ai Services may be interrupted by circumstances beyond
         sāf.ai\'s reasonable control, including without limitation acts
@@ -1027,28 +1041,8 @@ statement of work mutually agreed by by both parties, as applicable
         be responsible or otherwise liable for any Force Majeure or any
         consequences thereof.
 
-```{=html}
-<div style='text-align: center'>
-```
-```{=latex}
-\begin{center}
-```
 \[signature page follows\]
 
-```{=html}
-</div> <!-- center alignment -->
-```
-```{=latex}
-\end{center}
-\pagebreak
-```
 By signing below, each party acknowledges that it has read and
 understood the terms of these Terms of Service and agrees to be bound by
 them.
-
-```{=latex}
-\signatureblock{Ling Young}{Chief Operating Officer}
-```
-```{=html}
-</div> <!--legal-block -->
-```

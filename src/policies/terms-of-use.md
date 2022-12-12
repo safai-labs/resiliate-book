@@ -8,15 +8,12 @@ This website **saf.ai** is operated by sāf.ai, Inc. (we, our, or us). It
 is available at: <https://saf.ai> and may be available through other
 addresses or channels.
 
-```{=html}
-<div class="legal-block">
-```
-1.  **Consent**. By accessing and/or using our Site, you agree to these
+1. **Consent**. By accessing and/or using our Site, you agree to these
     terms of use and our [Privacy Policy](privacy.html) (\"**Terms**\").
     Please read these Terms carefully and immediately cease using our
     Site if you do not agree with them.
 
-2.  **Variations**. We may, at any time and at our discretion, vary
+2. **Variations**. We may, at any time and at our discretion, vary
     these Terms by publishing the varied terms on our Site. We recommend
     you check our Site regularly to ensure you are aware of our current
     terms. Materials and information on this Site (**Content**) are
@@ -24,58 +21,58 @@ addresses or channels.
     Site up-to-date, and we are not liable if any Content is inaccurate
     or out-of-date.
 
-3.  **License to use our Site**. We grant you a non-exclusive,
+3. **License to use our Site**. We grant you a non-exclusive,
     royalty-free, revocable, worldwide, non-transferable license to use
     our Site in accordance with these Terms. All other uses are
     prohibited without our prior written consent.
 
-4.  **Prohibited conduct**. You must not do or attempt to do anything:
+4. **Prohibited conduct**. You must not do or attempt to do anything:
     that is unlawful; prohibited by any laws applicable to our Site;
     which we would consider inappropriate; or which may bring us or our
     Site into disrepute, including (without limitation):
 
-    1.  anything that would constitute a breach of an individual's
+    1. anything that would constitute a breach of an individual's
         privacy (including uploading private or personal information
         without an individual\'s consent) or any other legal rights;
-    2.  using our Site to defame, harass, threaten, menace, or offend
+    2. using our Site to defame, harass, threaten, menace, or offend
         any person. interfering with any user using our Site;
-    3.  tampering with or modifying our Site, knowingly transmitting
+    3. tampering with or modifying our Site, knowingly transmitting
         viruses or other disabling features, or damaging or interfering
         with our Site, including (without limitation) using trojan
         horses, viruses or piracy or ¡programming routines that may
         damage or interfere with our Site;
-    4.  using our Site to send unsolicited messages; or
-    5.  facilitating or assisting a third party to do any of the above
+    4. using our Site to send unsolicited messages; or
+    5. facilitating or assisting a third party to do any of the above
         acts.
 
-5.  **Exclusion of competitors**. You are prohibited from using our
+5. **Exclusion of competitors**. You are prohibited from using our
     Site, including the Content, in any way that competes with our
     business.
 
-6.  **Information**. The Content is not comprehensive and is for general
+6. **Information**. The Content is not comprehensive and is for general
     information purposes only. It does not take into account your
     specific needs, objectives or circumstances, and it is not advice.
     While we use reasonable attempts to ensure the accuracy and
     completeness of the Content, we make no representation or warranty
     in relation to it, to the maximum extent permitted by law.
 
-7.  **Intellectual Property rights**. Unless otherwise indicated, we own
+7. **Intellectual Property rights**. Unless otherwise indicated, we own
     or license all rights, title and interest (including intellectual
     property rights) in our Site and all of the Content. Your use of our
     Site and your use of and access to any Content does not grant or
     transfer to you any rights, title or interest in relation to our
     Site or the Content. You must not:
 
-    1.  copy or use, in whole or in part, any Content;
-    2.  reproduce, retransmit, distribute, disseminate, sell, publish,
+    1. copy or use, in whole or in part, any Content;
+    2. reproduce, retransmit, distribute, disseminate, sell, publish,
         broadcast or circulate any Content to any third party; or
-    3.  breach any intellectual property rights connected with our Site
+    3. breach any intellectual property rights connected with our Site
         or the Content, including (without limitation) altering or
         modifying any of the Content, causing any of the Content to be
         framed or embedded in another website or platform, or creating
         derivative works from the Content.
 
-8.  **User Content**. You may be permitted to post, upload, publish,
+8. **User Content**. You may be permitted to post, upload, publish,
     submit or transmit relevant information and content (**User
     Content**) on our Site. We claim no ownership of the intellectual
     property rights in User Content you provide to the Site. Your
@@ -90,11 +87,12 @@ addresses or channels.
     responsible for all User Content that you make available on or
     through our Site. You represent and warrant that:
 
-    a.  you are either the sole and exclusive owner of all User Content
+    a. you are either the sole and exclusive owner of all User Content
         or you have all rights, licenses, consents and releases that are
         necessary to grant to us the rights in such User Content (as
         contemplated by these Terms); *and*
-    b.  neither the User Content nor the posting, uploading,
+
+    b. neither the User Content nor the posting, uploading,
         publication, submission or transmission of the User Content or
         our use of the User Content on, through or by means of our Site
         will infringe, misappropriate or violate a third party\'s
@@ -105,7 +103,7 @@ addresses or channels.
     Content. We may, at any time (at our sole discretion), remove any
     User Content.
 
-9.  **Third party sites**. Our Site may contain links to websites
+9. **Third party sites**. Our Site may contain links to websites
     operated by third parties. Unless expressly stated otherwise, we do
     not control, endorse or approve, and are not responsible for, the
     content on those websites. You should make your own investigations
@@ -192,7 +190,3 @@ Wisconsin Avenue, Bethesda, MD 20814, USA
 Email: <support@saf.ai>
 
 Last update: July, 2020.
-
-```{=html}
-</div>
-```
