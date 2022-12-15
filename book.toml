@@ -1,5 +1,5 @@
 [book]
-title = "sāf.ai docs"
+title = "sāf.ai Documentation"
 authors = ["Ahmed Masud", "Joey Phan"]
 description = "CEFS Documentation"
 src = "src"
@@ -30,7 +30,7 @@ extra-watch-dirs = []
 # edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
 # site-url = "/example-book/"
 # cname = "myproject.rs"
-# input-404 = "not-found.md"
+# input-404 = "404.md"
 
 
 # [output.html.search]

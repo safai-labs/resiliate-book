@@ -19,8 +19,8 @@ cefs filesystem {COMMAND} [OPTIONS] {ARGS}
 
 |COMMAND                               |SUMMARY                    |
 |--------------------------------------|---------------------------|
-|`cefs filesystem [ -h \| --help ]`    |Prints this help message.  |
-|`cefs filesystem [ -V \| --version ]` |Prints current version.    |
+|`cefs filesystem [ -h `\|` --help ]`    |Prints this help message.  |
+|`cefs filesystem [ -V `\|` --version ]` |Prints current version.    |
 |`cefs filesystem mount <src> <mp>`    |Mount a filesystem.        |
 |`cefs filesystem umount <mp>`         |Unmount a filesystem.      |
 |`cefs filesystem mkfs <target>`       |Create a CEFS filesystem.  |

@@ -15,7 +15,7 @@ ANCHOR_END: last-updated
 ## Contact Information
 
 ANCHOR: address
-sāf.ai, Inc. 7200 Wisconsin Avenue, Suite 302, Bethesda, MD 20814, United States of America.
+sāf.ai, Inc. 7200 Wisconsin Avenue, Suite 302, Bethesda, MD 20814, United States of America
 ANCHOR_END: address
 
 ### E-mails

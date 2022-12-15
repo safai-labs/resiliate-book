@@ -21,11 +21,11 @@ cefs rectify {PATH} [OPTIONS] {COMMAND} {ARGS}
 
 |COMMAND                               |Summary                                         |
 |--------------------------------------|------------------------------------------------|
-|`cefs rectify [ -a \| --all ]`        |Show all points.                                |
-|`cefs rectify [ -l \| --long ]`       |Show sāf points in long format.                 |
-|`cefs rectify [ -v \| --verbose ]`    |Show sāf points in verbose format.              |
-|`cefs rectify [ -h \| --help ]`       |Prints this help message.                       |
-|`cefs rectify [ -V \| --version ]`    |Prints current version.                         |
+|`cefs rectify [ -a `\|` --all ]`        |Show all points.                                |
+|`cefs rectify [ -l `\|` --long ]`       |Show sāf points in long format.                 |
+|`cefs rectify [ -v `\|` --verbose ]`    |Show sāf points in verbose format.              |
+|`cefs rectify [ -h `\|` --help ]`       |Prints this help message.                       |
+|`cefs rectify [ -V `\|` --version ]`    |Prints current version.                         |
 |`cefs rectify <path> now`             |Rescue a filesystem immediately.                |
 |`cefs rectify <path> from`            |Provide ranged list of times or memory-blocks.  |
 |`cefs rectify <path> stores`          |Show recoverable stores.                        |

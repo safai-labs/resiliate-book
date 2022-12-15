@@ -19,8 +19,8 @@ cefs config {COMMAND} [OPTIONS] {ARGS}
 
 |COMMAND                           |SUMMARY                       |
 |----------------------------------|------------------------------|
-|`cefs config [ -h \| --help ]`    |Prints this help message.     |
-|`cefs config [ -V \| --version ]` |Prints current version.       |
+|`cefs config [ -h `\|` --help ]`    |Prints this help message.     |
+|`cefs config [ -V `\|` --version ]` |Prints current version.       |
 |`cefs config upgrade`             |Upgrade CEFS software.        |
 |`cefs config upgradeable`         |Check for CEFS update.        |
 |`cefs config kernel`              |Configure kernel module(s).   |

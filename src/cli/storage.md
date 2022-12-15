@@ -20,9 +20,9 @@ cefs storage {COMMAND} [OPTIONS] {ARGS}
 
 |COMMAND                             |SUMMARY                               |
 |------------------------------------|--------------------------------------|
-|`cefs storage [ -v \| --verbose]`   |Prints verbose progress reports.      |
-|`cefs storage [ -h \| --help ]`     |Prints this help message.             |
-|`cefs storage [ -V \| --version ]`  |Prints current version.               |
+|`cefs storage [ -v `\|` --verbose]`   |Prints verbose progress reports.      |
+|`cefs storage [ -h `\|` --help ]`     |Prints this help message.             |
+|`cefs storage [ -V `\|` --version ]`  |Prints current version.               |
 |`cefs storage init <dev>`           |Initialize a new back-end storage.    |
 |`cefs storage bind <dev> <mnt>`     |Export back-end storage to front-end. |
 
