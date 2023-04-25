@@ -64,13 +64,13 @@ ANCHOR_END: ransomware-url
 ### Installer Download
 
 ANCHOR: cefs-ubuntu-2204-url
-https://saf.ai/downloads/stable/ubuntu-22.04/cefs-init.sh
+https://get.saf.ai/stable/ubuntu-22.04/cefs-init.sh
 ANCHOR_END: cefs-ubuntu-2204-url
 
 ANCHOR: cefs-ubuntu-2004-url
-https://saf.ai/downloads/stable/ubuntu-20.04/cefs-init.sh
+https://get.saf.ai/stable/ubuntu-20.04/cefs-init.sh
 ANCHOR_END: cefs-ubuntu-2004-url
 
 ANCHOR: cefs-rhel8-url
-https://saf.ai/downloads/beta/el8/cefs-1.0.8-beta-el8-installer.sh
+https://get.saf.ai/beta/el8/cefs-1.0.8-beta-el8-installer.sh
 ANCHOR_END: cefs-rhel8-url
