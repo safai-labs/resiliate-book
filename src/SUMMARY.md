@@ -2,7 +2,7 @@
 
 [Introduction](README.md)
 
-# User Guide
+## User Guide
 
 - [Installation](guide/install/README.md)
   - [Prerequisites](guide/install/prerequisites.md)
@@ -16,8 +16,11 @@
 - [Integrating with Windows Network](guide/windows/README.md)
   - [Windows Workgroup](guide/windows/workgroup.md)
   - [Windows Active Directory](guide/windows/active-directory.md)
-
-# Reference Guide
+- [Integrating with CEPH Storage (*alpha*)](guide/ceph/README.md)
+  - [CEPH Storage Cluster](guide/ceph/cluster.md)
+  - [CEPH Storage Gateway](guide/ceph/gateway.md)
+  
+## Reference Guide
 
 - [Command Line Tool](cli/README.md)
   - [config](cli/config.md)
@@ -27,7 +30,7 @@
 
 ----------
 
-# Policies
+## Policies
 
 - [Policies](policies/README.md)
   - [Terms of Use](policies/terms-of-use.md)
