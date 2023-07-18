@@ -2,7 +2,7 @@
 
 [Introduction](README.md)
 
-## User Guide
+# User Guide
 
 - [Installation](guide/install/README.md)
   - [Prerequisites](guide/install/prerequisites.md)
@@ -19,8 +19,8 @@
 - [Integrating with CEPH Storage (*alpha*)](guide/ceph/README.md)
   - [CEPH Storage Cluster](guide/ceph/cluster.md)
   - [CEPH Storage Gateway](guide/ceph/gateway.md)
-  
-## Reference Guide
+
+# Reference Guide
 
 - [Command Line Tool](cli/README.md)
   - [config](cli/config.md)
@@ -28,11 +28,12 @@
   - [storage](cli/storage.md)
   - [rectify](cli/rectify.md)
 
-----------
+---
 
-## Policies
+# Policies
 
-- [Policies](policies/README.md)
+[Policies](policies/README.md)
+
   - [Terms of Use](policies/terms-of-use.md)
   - [Privacy Policy](policies/privacy.md)
   - [EULA](policies/eula.md)
@@ -48,3 +49,4 @@
 ----------
 
 [Contributors](misc/contributors.md)
+
