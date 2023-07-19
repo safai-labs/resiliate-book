@@ -13,7 +13,7 @@ contingent operational situations.
 ## USAGE
 
 ``` bash
-cefs storage {COMMAND} [OPTIONS] {ARGS}
+aifs storage {COMMAND} [OPTIONS] {ARGS}
 ```
 
 ## SYNOPSIS

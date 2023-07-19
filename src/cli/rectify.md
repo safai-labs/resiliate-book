@@ -14,7 +14,7 @@ all memoirs.
 ## USAGE
 
 ``` bash
-cefs rectify {PATH} [OPTIONS] {COMMAND} {ARGS}
+aifs rectify {PATH} [OPTIONS] {COMMAND} {ARGS}
 ```
 
 ## SYNOPSIS

@@ -24,9 +24,9 @@ Ensure that you have a fully operational CEPH cluster. If you do not already hav
 
     ``` bash
     export AIFS_PARTITION=/dev/rbd/poolname/devicename AIFS_MOUNTDIR=/srv/cefs
-    sudo cefs storage init ${AIFS_PARTITION}
+    sudo aifs storage init ${AIFS_PARTITION}
     sudo mkdir -p ${AIFS_MOUNTDIR}
-    sudo cefs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
+    sudo aifs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
     ```
 
     Your CEPH-backed AIFS filesystem is now ready to use. Any data written to `/srv/cefs` will now be stored on your CEPH cluster.

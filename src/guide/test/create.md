@@ -21,12 +21,12 @@ Let's create some data!
   and list your recovery points using the below command:
 
     ``` bash
-    cefs rectify ${AIFS_MOUNTDIR} show
+    aifs rectify ${AIFS_MOUNTDIR} show
     ```
 
 This should look something like the following:
 
-![cefs rectify show](../../media/1.0.8-rc2/cefs-rectify-show.png "cefs rectify show")
+![aifs rectify show](../../media/1.0.8-rc2/cefs-rectify-show.png "aifs rectify show")
 
 > You will notice that as the data copies in, AIFS will automatically
   create various points of interest and identify them as `sāf` or

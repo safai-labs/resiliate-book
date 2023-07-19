@@ -5,9 +5,9 @@ the file system to run on.
 
 ``` bash
 export AIFS_PARTITION=/dev/sdb1 AIFS_MOUNTDIR=/srv/cefs
-sudo cefs storage init ${AIFS_PARTITION}
+sudo aifs storage init ${AIFS_PARTITION}
 sudo mkdir -p ${AIFS_MOUNTDIR}
-sudo cefs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
+sudo aifs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
 ```
 
 You can now use `/srv/cefs` for your storage needs.

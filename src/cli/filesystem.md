@@ -12,7 +12,7 @@ file systems.
 ## USAGE
 
 ``` bash
-cefs filesystem {COMMAND} [OPTIONS] {ARGS}
+aifs filesystem {COMMAND} [OPTIONS] {ARGS}
 ```
 
 ## SYNOPSIS
