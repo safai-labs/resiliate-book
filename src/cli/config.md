@@ -1,12 +1,12 @@
-# CEFS Config
+# AIFS Config
 
 ## NAME
 
-`cefs config` - The self configurer
+`aifs config` - The self configurer
 
 ## DESCRIPTION
 
-CEFS Config commands allow you to configure CEFS software and services
+AIFS Config commands allow you to configure AIFS software and services
 itself.
 
 ## USAGE
@@ -19,31 +19,31 @@ cefs config {COMMAND} [OPTIONS] {ARGS}
 
 |COMMAND                           |SUMMARY                       |
 |----------------------------------|------------------------------|
-|`cefs config [ -h `\|` --help ]`    |Prints this help message.     |
-|`cefs config [ -V `\|` --version ]` |Prints current version.       |
-|`cefs config upgrade`             |Upgrade CEFS software.        |
-|`cefs config upgradeable`         |Check for CEFS update.        |
-|`cefs config kernel`              |Configure kernel module(s).   |
-|`cefs config license`             |Configure license key(s).     |
-|`cefs config build-info`          |Show Build Information.       |
+|`aifs config [ -h `\|` --help ]`    |Prints this help message.     |
+|`aifs config [ -V `\|` --version ]` |Prints current version.       |
+|`aifs config upgrade`             |Upgrade AIFS software.        |
+|`aifs config upgradeable`         |Check for AIFS update.        |
+|`aifs config kernel`              |Configure kernel module(s).   |
+|`aifs config license`             |Configure license key(s).     |
+|`aifs config build-info`          |Show Build Information.       |
 
 ## OPTIONS
 
 ### `upgrade`
 
-Upgrade CEFS software.
+Upgrade AIFS software.
 
 #### `-c, --channel <channel>`
 
-Channel determines which build of CEFS to download, configure, and update.
+Channel determines which build of AIFS to download, configure, and update.
 
 ### `upgradeable`
 
-Check for CEFS update.
+Check for AIFS update.
 
 #### `-c, --channel <channel>`
 
-Channel determines which build of CEFS to download, configure, and update.
+Channel determines which build of AIFS to download, configure, and update.
 
 ### `kernel`
 

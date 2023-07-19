@@ -3,7 +3,7 @@
 ## Prerequisites
 
 Please go through the [Installation](../install/index.md) process
-and configure a CEFS file-server before continuing.
+and configure a AIFS file-server before continuing.
 
 It is recommended that you install Samba on the Linux server using:
 
@@ -11,7 +11,7 @@ It is recommended that you install Samba on the Linux server using:
 apt install samba
 ```
 
-You can use CEFS with Windows in a variety of ways. There are many
+You can use AIFS with Windows in a variety of ways. There are many
 configurations here, please choose the one that works for your
 particular use-case.
 

@@ -1,7 +1,7 @@
 [book]
-title = "sāf.ai Resiliate 1.0 Administrator's Guide"
+title = "sāf.ai Resiliate 2.0 Administrator's Guide"
 authors = ["Ahmed Masud", "Joey Phan"]
-description = "CEFS Documentation"
+description = "Resiliate Documentation"
 src = "src"
 language = "en"
 multilingual = false

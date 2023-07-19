@@ -23,7 +23,7 @@ SOFTWARE.
     1. \"**Base Version**\" shall mean a version of the Software that
         is subject to the Trial Period and to a per-usage cost after the
         end of the Trial Period.
-    2. \"**CEFS**\" shall mean sāf.ai Cybernetic Engram File System.
+    2. \"**AIFS**\" shall mean sāf.ai Cybernetic Engram File System.
     3. \"**Community Edition**\" shall mean a version of the Software
         that is free to use up to a specified data limit.
     4. \"**Software**\" shall mean collectively the Community Edition

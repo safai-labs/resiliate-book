@@ -423,7 +423,7 @@ follows:
             samples of each use of sāf.ai Marks prior to such use and
             shall refrain from all uses that sāf.ai informs Partner are
             detrimental to sāf.ai\'s interests. Partner understands that
-            any use of sāf.ai trademarks (e.g., \'sāf.ai CEFS™\') is
+            any use of sāf.ai trademarks (e.g., \'sāf.ai AIFS™\') is
             subject to sāf.ai\'s applicable policies, available through
             the Partner Portal, and Partner agrees to strictly adhere to
             such policies. Any use of a sāf.ai Mark by Partner must

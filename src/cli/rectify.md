@@ -1,12 +1,12 @@
-# CEFS Rectify
+# AIFS Rectify
 
 ## NAME
 
-`cefs rectify` - The sāf search and rescue tool
+`aifs rectify` - The sāf search and rescue tool
 
 ## DESCRIPTION
 
-CEFS Rectify commands allow you to search and rescue recovery options.
+AIFS Rectify commands allow you to search and rescue recovery options.
 All deleted files and directories bring themselves back. All damaged
 files and directories self-repair to their last known good state across
 all memoirs.
@@ -21,17 +21,17 @@ cefs rectify {PATH} [OPTIONS] {COMMAND} {ARGS}
 
 |COMMAND                               |Summary                                         |
 |--------------------------------------|------------------------------------------------|
-|`cefs rectify [ -a `\|` --all ]`        |Show all points.                                |
-|`cefs rectify [ -l `\|` --long ]`       |Show sāf points in long format.                 |
-|`cefs rectify [ -v `\|` --verbose ]`    |Show sāf points in verbose format.              |
-|`cefs rectify [ -h `\|` --help ]`       |Prints this help message.                       |
-|`cefs rectify [ -V `\|` --version ]`    |Prints current version.                         |
-|`cefs rectify <path> now`             |Rescue a filesystem immediately.                |
-|`cefs rectify <path> from`            |Provide ranged list of times or memory-blocks.  |
-|`cefs rectify <path> stores`          |Show recoverable stores.                        |
-|`cefs rectify <path> show`            |Show recovery points.                           |
-|`cefs rectify <path> memory <ID>`     |Optionally, provide a transient engram ID.      |
-|`cefs rectify <path> mark-pristine`   |Mark the current state as pristine.             |
+|`aifs rectify [ -a `\|` --all ]`        |Show all points.                                |
+|`aifs rectify [ -l `\|` --long ]`       |Show sāf points in long format.                 |
+|`aifs rectify [ -v `\|` --verbose ]`    |Show sāf points in verbose format.              |
+|`aifs rectify [ -h `\|` --help ]`       |Prints this help message.                       |
+|`aifs rectify [ -V `\|` --version ]`    |Prints current version.                         |
+|`aifs rectify <path> now`             |Rescue a filesystem immediately.                |
+|`aifs rectify <path> from`            |Provide ranged list of times or memory-blocks.  |
+|`aifs rectify <path> stores`          |Show recoverable stores.                        |
+|`aifs rectify <path> show`            |Show recovery points.                           |
+|`aifs rectify <path> memory <ID>`     |Optionally, provide a transient engram ID.      |
+|`aifs rectify <path> mark-pristine`   |Mark the current state as pristine.             |
 
 ## OPTIONS
 

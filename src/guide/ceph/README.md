@@ -23,16 +23,16 @@ Ensure that you have a fully operational CEPH cluster. If you do not already hav
     Now initialize the CEPH-backed store with Resiliate filesystem and mount it at your preferred location. For example:
 
     ``` bash
-    export CEFS_PARTITION=/dev/rbd/poolname/devicename CEFS_MOUNTDIR=/srv/cefs
-    sudo cefs storage init ${CEFS_PARTITION}
-    sudo mkdir -p ${CEFS_MOUNTDIR}
-    sudo cefs filesystem mount ${CEFS_PARTITION} ${CEFS_MOUNTDIR}
+    export AIFS_PARTITION=/dev/rbd/poolname/devicename AIFS_MOUNTDIR=/srv/cefs
+    sudo cefs storage init ${AIFS_PARTITION}
+    sudo mkdir -p ${AIFS_MOUNTDIR}
+    sudo cefs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
     ```
 
-    Your CEPH-backed CEFS filesystem is now ready to use. Any data written to `/srv/cefs` will now be stored on your CEPH cluster.
+    Your CEPH-backed AIFS filesystem is now ready to use. Any data written to `/srv/cefs` will now be stored on your CEPH cluster.
 
 Note: This assumes that you have installed the necessary CEPH client utilities on the same machine where you're running these commands.
 
 Remember to always test this setup with non-critical data first, until you are confident that everything is functioning as expected.
 
-Lastly, the performance of the CEFS system when backed by CEPH will depend heavily on the performance and configuration of your CEPH cluster. So, ensure your CEPH cluster is well-optimized for your workload.
+Lastly, the performance of the AIFS system when backed by CEPH will depend heavily on the performance and configuration of your CEPH cluster. So, ensure your CEPH cluster is well-optimized for your workload.

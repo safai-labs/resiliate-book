@@ -1,12 +1,12 @@
-# CEFS Storage
+# AIFS Storage
 
 ## NAME
 
-`cefs storage` - The storage controller
+`aifs storage` - The storage controller
 
 ## DESCRIPTION
 
-CEFS Storage commands allow you to control the backend storage. There
+AIFS Storage commands allow you to control the backend storage. There
 are several storage-drivers that provide circumstantial benefits for
 contingent operational situations.
 
@@ -20,11 +20,11 @@ cefs storage {COMMAND} [OPTIONS] {ARGS}
 
 |COMMAND                             |SUMMARY                               |
 |------------------------------------|--------------------------------------|
-|`cefs storage [ -v `\|` --verbose]`   |Prints verbose progress reports.      |
-|`cefs storage [ -h `\|` --help ]`     |Prints this help message.             |
-|`cefs storage [ -V `\|` --version ]`  |Prints current version.               |
-|`cefs storage init <dev>`           |Initialize a new back-end storage.    |
-|`cefs storage bind <dev> <mnt>`     |Export back-end storage to front-end. |
+|`aifs storage [ -v `\|` --verbose]`   |Prints verbose progress reports.      |
+|`aifs storage [ -h `\|` --help ]`     |Prints this help message.             |
+|`aifs storage [ -V `\|` --version ]`  |Prints current version.               |
+|`aifs storage init <dev>`           |Initialize a new back-end storage.    |
+|`aifs storage bind <dev> <mnt>`     |Export back-end storage to front-end. |
 
 ## OPTIONS
 
@@ -43,7 +43,7 @@ Export back-end storage to front-end storage.
 
 #### `-B, --backend <backend>`
 
-Backend-storage determines what type of storage you want to use CEFS on.
+Backend-storage determines what type of storage you want to use AIFS on.
 [possible values: flat-file, key-value]
 
 #### `-o <options>`

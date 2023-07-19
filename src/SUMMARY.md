@@ -6,8 +6,8 @@
 
 - [Installation](guide/install/README.md)
   - [Prerequisites](guide/install/prerequisites.md)
-  - [Install CEFS](guide/install/installation.md)
-  - [Initialize CEFS Store](guide/install/initialization.md)
+  - [Install AIFS](guide/install/installation.md)
+  - [Initialize AIFS Store](guide/install/initialization.md)
 - [Test Instructions](guide/test/README.md)
   - [Create](guide/test/create.md)
   - [Destroy](guide/test/destroy.md)

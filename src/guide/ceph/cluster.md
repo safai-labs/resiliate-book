@@ -115,7 +115,7 @@ To access the cluster, you'll need to set up a CEPH client:
 sudo apt-get install ceph-fuse python-ceph python-rados python-rbd python-cephfs librados2 librbd1 libcephfs1 libradosstriper1 python-rgw -y
 ```
 
-If the CEPH installation and setup were successful, you should be able to create, mount and use RADOS block devices on your VM to store CEFS data.
+If the CEPH installation and setup were successful, you should be able to create, mount and use RADOS block devices on your VM to store AIFS data.
 
 This is a minimal, non-redundant setup. In a production environment, you'd want multiple OSDs and monitors for redundancy and performance. Also, don't use directories as OSDs in production.
 
@@ -125,7 +125,7 @@ For a more comprehensive guide to setting up CEPH, see the [official CEPH docume
 
 ## Important Note
 
-This setup can provide a functional testing environment for Resiliate (also known as AiFS or CEFS), but it's important to note that this is a minimal setup designed for getting started and testing out the basic functionality. The CEPH setup described here is a single-node cluster with non-redundant storage, which means that it lacks the redundancy and fault tolerance that a full, production-grade CEPH cluster would provide.
+This setup can provide a functional testing environment for Resiliate (also known as AiFS or AIFS), but it's important to note that this is a minimal setup designed for getting started and testing out the basic functionality. The CEPH setup described here is a single-node cluster with non-redundant storage, which means that it lacks the redundancy and fault tolerance that a full, production-grade CEPH cluster would provide.
 
 Before starting to test Resiliate, make sure the CEPH cluster is functioning as expected. The command `ceph status` can be used to check the health of the cluster. If the cluster status is `HEALTH_OK`, then you can proceed with setting up Resiliate.
 
