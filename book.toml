@@ -6,14 +6,24 @@ src = "src"
 language = "en"
 multilingual = false
 
-[rust]
-edition = "2021"
-
 [build]
 build-dir = "book"
 create-missing = true
 use-default-preprocessors = true
 extra-watch-dirs = []
+
+[preprocessor.plantuml]
+plantuml-cmd = "/home/masud/.local/bin/plantuml"
+# plantuml-cmd="http://localhost:8080/plantuml"
+use-data-uris=true
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
 
 # [output.html]
 # theme = "my-theme"
