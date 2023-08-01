@@ -10,7 +10,7 @@ Let's create some data!
 
 2. Copy or extract the test data in the directory. For example, if you
   grabbed 200.zip from
-  [{{#include ../../includes.md:testdata-url}}]({{#include ../../includes.md:testdata-url}}),
+  [{{#include ../../includes.md:test-data-url}}]({{#include ../../includes.md:test-data-url}}),
   you can unzip it in the AIFS directory.
 
     ``` bash
