@@ -1,14 +1,14 @@
-# Introduction to Resiliate® 2.0
+# Introduction to Resiliate™ 2.0
 
-Welcome to Resiliate® 2.0, an enterprise-level software package designed to mitigate
+Welcome to Resiliate™ 2.0, an enterprise-level software package designed to mitigate
 the effects of ransomware and other malicious activities that lead to data loss.
-At its core, Resiliate® features AiFS, an advanced filesystem that aims to prevent
+At its core, Resiliate™ features AiFS, an advanced filesystem that aims to prevent
 data loss, provide quick recovery options, and achieve short Recovery Point
 Objectives (RPOs) and Recovery Time Objectives (RTOs).
 
-## What's new in Resiliate® 2.0?
+## What's new in Resiliate™ 2.0?
 
-Resiliate® 2.0 is a complete rewrite of the original Resiliate® 1.0, transforming
+Resiliate™ 2.0 is a complete rewrite of the original Resiliate™ 1.0, transforming
 it into a plugin-driven system. This change allows for greater flexibility and
 customization, catering to a wide range of enterprise needs. The new version
 introduces a unified interface for interacting with the filesystem, the CE engine,
@@ -17,7 +17,7 @@ plugins, back-end stores, and the statistical and AI models.
 <details>
 <summary><em>Click to expand to get details on limitations of Resiliate 1.0</em></summary>
 
-While Resiliate® 1.0 was a comprehensive solution for preventing data loss and
+While Resiliate™ 1.0 was a comprehensive solution for preventing data loss and
 providing quick recovery options, it had several limitations:
 
 * It was a monolithic system that was not plugin-driven.
@@ -30,24 +30,24 @@ providing quick recovery options, it had several limitations:
 
 </details>  
 
-Resiliate® 2.0 addresses these limitations and introduces several new features:
+Resiliate™ 2.0 addresses these limitations and introduces several new features:
 
-* **Plugin-Driven System:** Resiliate® 2.0 is plugin-driven, allowing for greater
+* **Plugin-Driven System:** Resiliate™ 2.0 is plugin-driven, allowing for greater
   flexibility and extensibility.
 
-* **Support for Multiple Filesystems:** Resiliate® 2.0 is designed to work with
+* **Support for Multiple Filesystems:** Resiliate™ 2.0 is designed to work with
   multiple filesystems, providing users with more options and flexibility.
 
 * **Improved Transparency:** The internal state of the system is exposed via the
   Control Plane filesystem, providing insights into its decision-making process.
 
-* **Easier Deployment and Data Import:** Resiliate® 2.0 simplifies both deployment
+* **Easier Deployment and Data Import:** Resiliate™ 2.0 simplifies both deployment
   and data import, making it easier for users to get started with the system.
 
 * **Enhanced Auditing Capabilities:** Deep auditing of filesystem operations is
   introduced using Cybernetic Engrams (CEs).
 
-## Key Features of Resiliate® 2.0
+## Key Features of Resiliate™ 2.0
 
 * **Cybernetic Engram (CE) Engine:** The CE engine evaluates and performs inferences
   based on the state of the data, system, users, groups, processes, and history,
@@ -60,9 +60,9 @@ Resiliate® 2.0 addresses these limitations and introduces several new features:
 * **Control Plane:** The Control Plane provides a unified interface for interacting
   with the CE engine, plugins, back-end stores, and the statistical and AI models.
 
-## Resiliate® Package
+## Resiliate™ Package
 
-Resiliate® is the overall package that bundles AiFS, utilities, CellFS kernel DKMS
+Resiliate™ is the overall package that bundles AiFS, utilities, CellFS kernel DKMS
 module, and various other add-on packages. It is supported on various platforms,
 including x86_64 and IBM System Z.
 
