@@ -69,14 +69,15 @@ You can use the following syntax to create an image:
 You can create a code block by wrapping your code in triple backticks.
 
 <code>
-```markdown
-This is a code block
+```
+Code block goes here....
 ```
 </code>
 
 ## Basic HTML
 
-HTML (HyperText Markup Language) is the standard markup language for creating web pages. It describes the structure of a web page and it consists of a series of elements.
+You can directly include HTML (HyperText Markup Language)—which is the standard markup language for creating web pages—directly into
+markdown. It describes the structure of a web page and it consists of a series of elements.
 
 ### Basic Elements
 
@@ -111,6 +112,5 @@ Here's a basic example of HTML:
 </html>
 ```
 
-Remember, while Markdown files (.md) support HTML, it's best to use Markdown syntax whenever possible for simplicity and readability. 
+**Remember, while Markdown files (.md) support HTML, it's best to use Markdown syntax whenever possible for simplicity and readability.**
 
-I hope this helps your team get started with editing the .md files. Let me know if you have any questions or need further information!
