@@ -128,7 +128,6 @@ A book is built from several files which define the settings and layout of the b
 In the root of your book, there is a `book.toml` file which contains settings for describing how to build your book.
 This is written in the [TOML markup language](https://toml.io/).
 The default settings are usually good enough to get you started.
-When you are interested in exploring more features and options that mdBook provides, check out the [Configuration chapter](../format/configuration/index.html) for more details.
 
 A very basic `book.toml` can be as simple as this:
 
@@ -158,7 +157,6 @@ Here's a basic summary file with a few chapters:
 Try opening up `src/SUMMARY.md` in your editor and adding a few chapters.
 If any of the chapter files do not exist, `mdbook` will automatically create them for you.
 
-For more details on other formatting options for the summary file, check out the [Summary chapter](../format/summary.md).
 
 ### Source files
 
@@ -177,8 +175,6 @@ The organization of the files will correspond to the HTML files generated, so ke
 
 While the `mdbook serve` command is running, you can open any of the chapter files and start editing them.
 Each time you save the file, `mdbook` will rebuild the book and refresh your web browser.
-
-Check out the [Markdown chapter](../format/markdown.md) for more information on formatting the content of your chapters.
 
 All other files in the `src` directory will be included in the output.
 So if you have images or other static files, just include them somewhere in the `src` directory.
