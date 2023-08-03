@@ -68,11 +68,11 @@ You can use the following syntax to create an image:
 
 You can create a code block by wrapping your code in triple backticks.
 
+<code>
 ```markdown
-\`\`\`
 This is a code block
-\`\`\`
 ```
+</code>
 
 ## Basic HTML
 
