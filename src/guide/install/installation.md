@@ -45,7 +45,7 @@ Cut and paste the URL for your flavor of Linux Distribution into a
     ```bash
     machine get.saf.ai
     login demo
-    password <password>password>
+    password <password>
     ```
 
     Replace `<password>` with the actual password provided to you through the
