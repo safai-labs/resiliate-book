@@ -5,7 +5,7 @@ Resiliate documentation
 
 This book is written using a documentation system called Markdown Book. It uses *Markdown* to create content. 
 
-Please have a quick read of how we use markdown to write content.  And then read [Anatomy of a book](https://rust-lang.github.io/mdBook/guide/creating.html#anatomy-of-a-book) section
+Please have a quick read of how we use markdown to write content.  And then read [Anatomy of a book](https://rust-lang.github.io/mdBook/guide/creating.html#anatomy-of-a-book){:target=_blank} section
 to get a basic understanding of how books are organized.
 
 # Introduction to Markdown
