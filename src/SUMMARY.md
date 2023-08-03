@@ -1,8 +1,8 @@
 # Summary
 
-[Introduction](README.md)
+## [Introduction](README.md)
 
-# User Guide
+## User Guide
 
 - [Installation](guide/install/README.md)
   - [Prerequisites](guide/install/prerequisites.md)
@@ -20,7 +20,7 @@
   - [CEPH Storage Cluster](guide/ceph/cluster.md)
   - [CEPH Storage Gateway](guide/ceph/gateway.md)
 
-# Reference Guide
+## Reference Guide
 
 - [Command Line Tool](cli/README.md)
   - [config](cli/config.md)
@@ -30,23 +30,22 @@
 
 ---
 
-# Policies
+## Policies
 
-[Policies](policies/README.md)
+  - [Policies](policies/README.md)
+    - [Terms of Use](policies/terms-of-use.md)
+    - [Privacy Policy](policies/privacy.md)
+    - [EULA](policies/eula.md)
+    - [EULA for Beta-software](policies/eula-beta.md)
+    - [Code of Conduct](policies/conduct.md)
+    - [Terms of Service](policies/terms-of-service.md)
+    - [Data Processing Agreement](policies/dpa.md)
+    - [DPA Annex A](policies/dpa-annex-a.md)
+    - [Acceptable Use Policies](policies/aup.md)
+    - [Slavery Statement](policies/slavery-statement.md)
+    - [sāf.ai Partnership Program](policies/ppa.md)
 
-  - [Terms of Use](policies/terms-of-use.md)
-  - [Privacy Policy](policies/privacy.md)
-  - [EULA](policies/eula.md)
-  - [EULA for Beta-software](policies/eula-beta.md)
-  - [Code of Conduct](policies/conduct.md)
-  - [Terms of Service](policies/terms-of-service.md)
-  - [Data Processing Agreement](policies/dpa.md)
-  - [DPA Annex A](policies/dpa-annex-a.md)
-  - [Acceptable Use Policies](policies/aup.md)
-  - [Slavery Statement](policies/slavery-statement.md)
-  - [sāf.ai Partnership Program](policies/ppa.md)
-
-----------
+---
 
 [Contributors](misc/contributors.md)
-
+[Change Log](misc/changelog.md)
