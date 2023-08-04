@@ -1,3 +1,4 @@
+# Introduction to Resiliate™ 2.0
 
 <div id='page-toc'>
 
@@ -5,39 +6,18 @@
 
 </div>
 
-# Introduction to Resiliate™ 2.0
-
-Welcome to Resiliate™ 2.0, an enterprise-level software package designed to mitigate
-the effects of ransomware and other malicious activities that lead to data loss.
-At its core, Resiliate™ features AiFS, an advanced filesystem that aims to prevent
-data loss, provide quick recovery options, and achieve short Recovery Point
-Objectives (RPOs) and Recovery Time Objectives (RTOs).
+Welcome to Resiliate, a AI-driven data resiliency software solution designed to
+mitigate the effects of ransomware and other malicious activities that lead to
+data loss. Resiliate is an advanced filesystem that aims to prevent data loss,
+provide quick recovery options, and achieve short Recovery Point Objectives (RPO)
+and Recovery Time Objectives (RTO).
 
 ## What's new in Resiliate™ 2.0?
 
-Resiliate™ 2.0 is a complete rewrite of the original Resiliate™ 1.0, transforming
-it into a plugin-driven system. This change allows for greater flexibility and
-customization, catering to a wide range of enterprise needs. The new version
-introduces a unified interface for interacting with the filesystem, the CE engine,
-plugins, back-end stores, and the statistical and AI models.
-
-<details>
-<summary><em>Click to expand to get details on limitations of Resiliate 1.0</em></summary>
-
-While Resiliate™ 1.0 was a comprehensive solution for preventing data loss and
-providing quick recovery options, it had several limitations:
-
-* It was a monolithic system that was not plugin-driven.
-* It only supported CellFS as the underlying filesystem.
-* Users had no way to peer into the internal state of the system, its decision
-  making, or the state of the data.
-* Deploying it on existing data storage was difficult, and importing existing
-  data was even more challenging.
-* The auditing capabilities were not sufficient to deploy it on existing data stores.
-
-</details>  
-
-Resiliate™ 2.0 addresses these limitations and introduces several new features:
+Resiliate introduces several new features allowing greater flexibility and
+customization for a wide range of enterprise needs, including a unified
+interface, the Cybernetic Engram engine, plugins, back-end stores,
+and statistical and AI models.
 
 * **Plugin-Driven System:** Resiliate™ 2.0 is plugin-driven, allowing for greater
   flexibility and extensibility.
