@@ -14,4 +14,4 @@ You can now use `/srv/aifs` for your storage needs.
 
 Your new Resiliate filesystem is now ready to test.
 
-**Now let's <create>, destroy, rectify, and analyze!**
+**Now let's create, destroy, rectify, and analyze!**

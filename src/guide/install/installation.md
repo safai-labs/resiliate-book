@@ -1,12 +1,6 @@
-# Installation
-
-Cut and paste the URL for your flavor of Linux Distribution into a
-  terminal to begin download and installation:
-
-## Linux
+## Installation
 
 ### Ubuntu 22.04 LTS Server
-
 
 1. **Import the GPG key**: Start by importing the GPG key for the saf.ai
    repository. Execute the following command:
@@ -18,7 +12,7 @@ Cut and paste the URL for your flavor of Linux Distribution into a
     This command downloads the GPG key, dearmors it, and saves it to your system's
     list of trusted keys.
 
-1. **Add the repository**: Now, add the saf.ai repository to your system's list 
+1. **Add the repository**: Now, add the saf.ai repository to your system's list
    of software sources. Use the following command:
 
     ```bash
@@ -48,8 +42,7 @@ Cut and paste the URL for your flavor of Linux Distribution into a
     password <password>
     ```
 
-    Replace `<password>` with the actual password provided to you through the
-    beta program.
+    Replace `<password>` with the actual password provided to by saf.ai.
 
     Save and close the file by pressing `Ctrl+X`, then `Y`, then `Enter`.
 
@@ -77,7 +70,7 @@ Cut and paste the URL for your flavor of Linux Distribution into a
 Remember to run these commands in a terminal window. If you encounter any issues,
 make sure you have the necessary permissions to execute these commands.
 
-<!-- 
+<!--
 ### Red Hat Enterprise Linux 8 // CentOS 8 Server
 
 ``` bash

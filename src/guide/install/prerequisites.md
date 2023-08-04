@@ -7,9 +7,10 @@
 | **RAM**                     | 16GB (32 GB Recommended)                  |
 | **DISK**                    | Minimum 40GB for root and 100 GB for data |
 
-- Administration access
-  You should be able to run commands with `sudo` or be logged in as `root`.
-- Internet access
-- AIFS Beta Program credentials
-- One of the supported Linux Servers:
+- **Administration access**: You should be able to run commands with `sudo` 
+  or be logged in as `root`.
+
+- **Internet access**.
+- **Resiliate beta software access credentials**.
+- **One of the supported Linux systems**:
   - [Ubuntu Server 22.04 LTS (x86_64, 64-bit)](https://www.ubuntu.com/download/server)
