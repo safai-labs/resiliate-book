@@ -22,6 +22,12 @@
 
 ## Reference Guide
 
+- [Control Plane](ref/control-plane/README.md)
+  - [/status file](ref/control-plane/resiliate-cp-status.md)
+    - [/status use-cases](ref/control-plane/resiliate-cp-status-use-cases.md)
+  - [plugins](ref/control-plane/plugins.md)
+  - [config](ref/control-plane/config.md)
+
 - [Command Line Tool](cli/README.md)
   - [config](cli/config.md)
   - [filesystem](cli/filesystem.md)
@@ -49,3 +55,5 @@
 
 [Contributors](misc/contributors.md)
 [Change Log](misc/changelog.md)
+
+---

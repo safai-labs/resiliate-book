@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Please go through the [Installation](../install/index.md) process
+Please go through the [Installation](../install/README.md) process
 and configure a AIFS file-server before continuing.
 
 It is recommended that you install Samba on the Linux server using:
