@@ -78,41 +78,17 @@ posture of the Resiliate filesystem.
 
 ## CONFIGURATION
 
-Configuration details for the control plane can be found in `/path/to/control-plane/config`.
-The syntax for the configuration file is:
-
-```toml
-[General]
-Option1 = Value1
-Option2 = Value2
-```
+Control plane is configured through the corresponding ce configuration file.
+See [Cybernetic Engram Control Engine](../ce.md) for more information.
 
 ## USAGE
-
-To list available plugins:  
-`$ command-to-list-plugins`
-
-To access a specific plugin's control plane entry:  
-`$ command-to-access-plugin <plugin-name>`
-
-## EXAMPLES
-
-1. Listing all available plugins:  
-   `$ command-to-list-plugins`
-
-2. Accessing the control plane entry for a specific plugin:  
-   `$ command-to-access-plugin example-plugin`
-
-## SECURITY
 
 Ensure that only authorized users have access to the control plane. Regularly
 update the control plane and its plugins to patch any known vulnerabilities.
 
 ## SEE ALSO
 
-- [Resiliate Introduction](https://docs.saf.ai/)
-- `man-page-for-ce(5)`
-- `man-page-for-plugins(5)`
+- [Resiliate Introduction](/)
 
 ## BUGS
 

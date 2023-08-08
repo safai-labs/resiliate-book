@@ -23,10 +23,14 @@
 
 ## Reference Guide
 
+- [Cybernetic Engram Control Engine (CE)](ref/ce.md)
 - [Control Plane](ref/control-plane/README.md)
+
   - [/status file](ref/control-plane/resiliate-cp-status.md)
     - [/status use-cases](ref/control-plane/resiliate-cp-status-use-cases.md)
+
   - [plugins](ref/control-plane/plugins.md)
+
   - [config](ref/control-plane/config.md)
 
 ---

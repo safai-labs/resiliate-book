@@ -1,10 +1,10 @@
-<!-- hide -->
 # Resiliate - control-plane - /status file
 
 ## Description - /status File Components
 
 Let's consider the following example of the /status file:
 
+<!-- markdownlint-disable MD013 -->
 ```console
 CE Metrics:
 Damaged Files:          5 (242402s)
@@ -22,9 +22,10 @@ p:   1908076 recommendation: Stop, Audit, Quarantine, reason: source: all, attac
 p:   1922934 recommendation: Continue, reason: source: all, attack: None, score: 0.0000, sigma: 0.0000, cosine: 0.0000, description: , rv: None          0 (228961s)          0 (228961s)
 
 ```
+<!-- markdownlint-enable MD013 -->
 
-**CE Metrics**: This section provides an overview of the metrics gathered by the Cybernetic Engram
-(CE) for the Resiliate filesystem.
+**CE Metrics**: This section provides an overview of the metrics
+gathered by the Cybernetic Engram (CE) for the Resiliate filesystem.
 
 **`Damaged Files`**: Represents the number of files that have been detected as damaged.
 The value in parentheses (242402s) indicates the time (in seconds) since this metric
@@ -82,21 +83,27 @@ in parentheses represents the time since the last update.
 of damages detected. The value in the subsequent parentheses represents the time
 since the last update.
 
-
-
 ## Example Use Cases
 
 ### 1. **User Behavior Analysis**
 
-**Problem**: A sysadmin wants to monitor user behavior to detect any unusual activities that might indicate compromised accounts or insider threats.
+**Problem**: A sysadmin wants to monitor user behavior to detect any
+unusual activities that might indicate compromised accounts or
+insider threats.
 
-**Solution**: By analyzing the `/status` file, the sysadmin can track activities of specific users (using the `u:` prefix). For instance, a sudden spike in damaged files or exfiltrations for a particular user might indicate suspicious behavior.
+**Solution**: By analyzing the `/status` file, the sysadmin can
+track activities of specific users (using the `u:` prefix). For
+instance, a sudden spike in damaged files or exfiltrations for a
+particular user might indicate suspicious behavior.
 
 **Example**:
+
 ```bash
 grep "^u:" /status | awk '$3 > 10 {print $0}'
 ```
-This command filters out users with more than 10 damaged files, which can then be further investigated.
+
+This command filters out users with more than 10 damaged files,
+which can then be further investigated.
 
 ---
 
@@ -104,56 +111,82 @@ This command filters out users with more than 10 damaged files, which can then b
 
 **Problem**: A security admin wants to set up real-time alerts for potential threats.
 
-**Solution**: The `/threats` file can be monitored for changes. Any new entries can trigger an alert. Additionally, the `score` and `sigma` values in the `/status` file can be used to set thresholds for alerts.
+**Solution**: The `/threats` file can be monitored for changes. Any
+new entries can trigger an alert. Additionally, the `score` and
+`sigma` values in the `/status` file can be used to set thresholds
+for alerts.
 
 **Example**:
+
 ```bash
 tail -f /threats | grep "Ransomware"
 ```
+
 This command monitors the threats file in real-time for any ransomware-related entries.
 
 ---
 
 ### 3. **Data Labeling for Machine Learning**
 
-**Problem**: A data scientist wants to train a machine learning model to predict malicious activities and needs labeled data.
+**Problem**: A data scientist wants to train a machine learning
+model to predict malicious activities and needs labeled data.
 
-**Solution**: The `/status` file provides labeled data with `reason`, `attack`, and `score` fields. This data can be extracted and used as training data for the model.
+**Solution**: The `/status` file provides labeled data with
+`reason`, `attack`, and `score` fields. This data can be extracted
+and used as training data for the model.
 
 **Example**:
+
 ```bash
 awk -F" " '{print $4, $6, $8}' /status > training_data.csv
 ```
+
 This command extracts the `reason`, `attack`, and `score` fields for machine learning training.
 
 ---
 
 ### 4. **Impact Detection Post-Incident**
 
-**Problem**: After a security incident, a secadmin wants to assess the impact, specifically which processes were involved and the extent of the damage.
+**Problem**: After a security incident, a secadmin wants to assess
+the impact, specifically which processes were involved and the
+extent of the damage.
 
-**Solution**: The `p:` entries in the `/status` file can be analyzed to see which processes were active during the incident and how many files they damaged or exfiltrated.
+**Solution**: The `p:` entries in the `/status` file can be analyzed
+to see which processes were active during the incident and how many
+files they damaged or exfiltrated.
 
 **Example**:
+
 ```bash
 grep "^p:" /status | awk '$3 > 0 || $5 > 0 {print $0}'
 ```
+
 This command lists processes that have damaged or exfiltrated files.
 
 ---
 
 ### 5. **Forensic Analysis**
 
-**Problem**: After a data breach, forensic experts want to trace back the activities of a particular group or user to understand the breach's origin.
+**Problem**: After a data breach, forensic experts want to trace
+back the activities of a particular group or user to understand the
+breach's origin.
 
-**Solution**: The `/status` file can be analyzed to track the activities of specific groups (using the `g:` prefix) or users over time.
+**Solution**: The `/status` file can be analyzed to track the
+activities of specific groups (using the `g:` prefix) or users over
+time.
 
 **Example**:
+
 ```bash
 grep "^g:1000" /status
 ```
+
 This command retrieves all activities associated with group ID 1000.
 
 ---
 
-These scenarios highlight the versatility of the Resiliate filesystem's `/status` and `/threats` files in addressing various system and security administration challenges. By leveraging this data, professionals can proactively manage, monitor, and mitigate potential risks.
+These scenarios highlight the versatility of the Resiliate
+filesystem's `/status` and `/threats` files in addressing various
+system and security administration challenges. By leveraging this
+data, professionals can proactively manage, monitor, and mitigate
+potential risks.
