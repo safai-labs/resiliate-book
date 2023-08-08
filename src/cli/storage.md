@@ -1,4 +1,4 @@
-# AIFS Storage
+# Resiliate Storage
 
 ## NAME
 
@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-AIFS Storage commands allow you to control the backend storage. There
+Resiliate Storage commands allow you to control the backend storage. There
 are several storage-drivers that provide circumstantial benefits for
 contingent operational situations.
 
@@ -43,7 +43,7 @@ Export back-end storage to front-end storage.
 
 #### `-B, --backend <backend>`
 
-Backend-storage determines what type of storage you want to use AIFS on.
+Backend-storage determines what type of storage you want to use Resiliate on.
 [possible values: flat-file, key-value]
 
 #### `-o <options>`

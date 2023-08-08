@@ -29,10 +29,10 @@ Ensure that you have a fully operational CEPH cluster. If you do not already hav
     sudo aifs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
     ```
 
-    Your CEPH-backed AIFS filesystem is now ready to use. Any data written to `/srv/cefs` will now be stored on your CEPH cluster.
+    Your CEPH-backed Resiliate filesystem is now ready to use. Any data written to `/srv/cefs` will now be stored on your CEPH cluster.
 
 Note: This assumes that you have installed the necessary CEPH client utilities on the same machine where you're running these commands.
 
 Remember to always test this setup with non-critical data first, until you are confident that everything is functioning as expected.
 
-Lastly, the performance of the AIFS system when backed by CEPH will depend heavily on the performance and configuration of your CEPH cluster. So, ensure your CEPH cluster is well-optimized for your workload.
+Lastly, the performance of the Resiliate system when backed by CEPH will depend heavily on the performance and configuration of your CEPH cluster. So, ensure your CEPH cluster is well-optimized for your workload.

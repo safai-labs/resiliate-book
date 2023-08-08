@@ -134,7 +134,7 @@ sudo apt get install -y ceph-fuse python-ceph python-rados python-rbd \
 ```
 
 If the CEPH installation and setup were successful, you should be able to
-create, mount and use RADOS block devices on your VM to store AIFS data.
+create, mount and use RADOS block devices on your VM to store Resiliate data.
 
 This is a minimal, non-redundant setup. In a production environment, you'd want
 multiple OSDs and monitors for redundancy and performance. Also, don't use

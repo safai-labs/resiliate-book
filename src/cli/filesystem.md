@@ -1,4 +1,4 @@
-# AIFS Filesystem
+# Resiliate Filesystem
 
 ## NAME
 
@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-AIFS Filesystem commands allow you to manage the organization of AIFS
+Resiliate Filesystem commands allow you to manage the organization of Resiliate
 file systems.
 
 ## USAGE
@@ -23,13 +23,13 @@ aifs filesystem {COMMAND} [OPTIONS] {ARGS}
 |`aifs filesystem [ -V `\|` --version ]` |Prints current version.    |
 |`aifs filesystem mount <src> <mp>`    |Mount a filesystem.        |
 |`aifs filesystem umount <mp>`         |Unmount a filesystem.      |
-|`aifs filesystem mkfs <target>`       |Create a AIFS filesystem.  |
+|`aifs filesystem mkfs <target>`       |Create a Resiliate filesystem.  |
 
 ## OPTIONS
 
 ### `mount <source> <mount-point>`
 
-Mount AIFS filesystem.
+Mount Resiliate filesystem.
 
 #### `-l, --log`
 
@@ -57,15 +57,15 @@ Back-end storage driver.
 
 ### `umount <mount-point>`
 
-Unmount a AIFS filesystem.
+Unmount a Resiliate filesystem.
 
 ### `mkfs <target>`
 
-Initialize (create) a new AIFS filesystem.
+Initialize (create) a new Resiliate filesystem.
 
 #### `-D, --driver <backend>`
 
-Backend-store determines what type of storage you want to use AIFS on.
+Backend-store determines what type of storage you want to use Resiliate on.
 (default: logfs) [possible values: flat-file, key-value]
 
 #### `-s, --source <source>`
