@@ -25,6 +25,10 @@ plugins-dir = "target/debug"
 # Default: /var/lib/resiliate/${mount_dir_flattened}
 control-plane-dir = "/tmp/ce"
 
+# Enable or disable enforcement mode
+# on | off | auto
+enforcement = auto
+
 # Configuration for the 'core' plugin, based on the 'naive' detection methodology.
 [core]
 # Path to the compiled plugin. This remains constant even if the section name changes.
@@ -43,13 +47,19 @@ models-dir = "/usr/share/resiliate/lib"
 
 The central configuration of the CE is defined under the `[ce]` section:
 
-- `plugins-dir`: This is the directory where the compiled plugins are stored.
-  In the provided example, this is set to `/usr/lib/resiliate/plugins`.
-  
 - `control-plane-dir`: This directory serves as the control plane for the CE.
   By default, the mount point for the CE control plane is
   `/var/lib/resiliate/${mount_dir_flattened}`, but it can be overridden as shown
   in the example with `/tmp/ce`.
+
+- `enforcement`: Whether or not the system will obey enforcement suggestions by
+  CE. In enforcement mode, the CE provides mandatory accerss control (MAC) 
+  over files, and grants or revokes access to processes, users, and groups.
+  The access control based on what the evaluations of the plugins.
+
+- `plugins-dir`: This is the directory where the compiled plugins are stored.
+  In the provided example, this is set to `/usr/lib/resiliate/plugins`.
+  
 
 ## Plugin Configuration
 

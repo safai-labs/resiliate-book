@@ -5,7 +5,7 @@ the file system to run on.
 
 ``` bash
 export AIFS_PARTITION=/dev/sdb1 AIFS_MOUNTDIR=/srv/aifs
-sudo aifs storage init ${AIFS_PARTITION}
+sudo aifs mkfs ${AIFS_PARTITION}
 sudo mkdir -p ${AIFS_MOUNTDIR}
 sudo aifs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
 ```
@@ -15,3 +15,4 @@ You can now use `/srv/aifs` for your storage needs.
 Your new Resiliate filesystem is now ready to test.
 
 **Now let's create, destroy, rectify, and analyze!**
+

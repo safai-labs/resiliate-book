@@ -12,18 +12,16 @@ file systems.
 ## USAGE
 
 ``` bash
-aifs filesystem {COMMAND} [OPTIONS] {ARGS}
+aifs {COMMAND} [OPTIONS] {ARGS}
 ```
 
 ## SYNOPSIS
 
-|COMMAND                               |SUMMARY                    |
-|--------------------------------------|---------------------------|
-|`aifs filesystem [ -h `\|` --help ]`    |Prints this help message.  |
-|`aifs filesystem [ -V `\|` --version ]` |Prints current version.    |
-|`aifs filesystem mount <src> <mp>`    |Mount a filesystem.        |
-|`aifs filesystem umount <mp>`         |Unmount a filesystem.      |
-|`aifs filesystem mkfs <target>`       |Create a Resiliate filesystem.  |
+|COMMAND                               |SUMMARY                         |
+|--------------------------------------|--------------------------------|
+|`aifs mount <src> <mp>`                 |Mount a filesystem.             |
+|`aifs umount <mp>`                      |Unmount a filesystem.           |
+|`aifs mkfs <target>`                    |Create a Resiliate filesystem.  |
 
 ## OPTIONS
 
@@ -31,27 +29,27 @@ aifs filesystem {COMMAND} [OPTIONS] {ARGS}
 
 Mount Resiliate filesystem.
 
-#### `-l, --log`
-
-Enable logging.
-
-#### `--dac`
-
-(UNSTABLE)Enable DAC security.
-
-#### `--use-unstable`
-
 Verify usage of unstable features.
 
-#### `-o <opts>`
+#### `-o <MOUNT-OPTIONS>`
 
 Storage driver options.
 
-#### `--source-driver <source-driver>`
+MOUNT-OPTIONS is one of:
 
-Front-end source-driver.
+  control-plane=&lt;path&gt;        Path to where the control-plane directory.
 
-#### `--storage-driver <storage-driver>`
+  enforcement[=on|off]              Enable or disable enforcement
+
+  lib-dir=&lt;path&gt;              Path to the directory containing the plugins.
+
+
+#### `--thread <NUMBER>`
+
+Number of threads to use for the AiFs filesystem
+
+[default: 4]
+
 
 Back-end storage driver.
 
@@ -73,6 +71,3 @@ Backend-store determines what type of storage you want to use Resiliate on.
 Source directory or block device, used to populate the data.
 If not specified, no data is populated.
 
-#### `-o <options>`
-
-Advanced options. (see documentation for details)
