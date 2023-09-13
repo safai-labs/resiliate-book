@@ -23,6 +23,8 @@ customization, catering to a wide range of enterprise needs. The new version
 introduces a unified interface for interacting with the filesystem, the CE engine,
 plugins, back-end stores, and the statistical and AI models.
 
+More Changes.
+
 <details>
 <summary><em>Click to expand to get details on limitations of Resiliate 1.0</em></summary>
 
