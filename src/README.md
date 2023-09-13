@@ -13,6 +13,8 @@ At its core, Resiliate™ features AiFS, an advanced filesystem that aims to pre
 data loss, provide quick recovery options, and achieve short Recovery Point
 Objectives (RPOs) and Recovery Time Objectives (RTOs).
 
+Blah. Blah. Blah.
+
 ## What's new in Resiliate™ 2.0?
 
 Resiliate™ 2.0 is a complete rewrite of the original Resiliate™ 1.0, transforming
