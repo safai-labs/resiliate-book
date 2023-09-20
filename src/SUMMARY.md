@@ -33,6 +33,7 @@
 
   - [config](ref/control-plane/config.md)
 
+
 ---
 
 ## Extra Information
@@ -46,8 +47,9 @@
   - [CEPH Storage Cluster](guide/ceph/cluster.md)
   - [CEPH Storage Gateway](guide/ceph/gateway.md)
 
+# &nbsp; <!-- hide below -->
 
-## Policies
+### Policies
 
 - [Policies](policies/README.md)
   - [Terms of Use](policies/terms-of-use.md)
@@ -62,9 +64,7 @@
   - [Slavery Statement](policies/slavery-statement.md)
   - [sāf.ai Partnership Program](policies/ppa.md)
 
----
 
 [Contributors](misc/contributors.md)
 [Change Log](misc/changelog.md)
 
----

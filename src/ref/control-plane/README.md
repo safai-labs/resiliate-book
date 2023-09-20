@@ -39,7 +39,9 @@ For every Resiliate filesystem, a unique control plane is generated. The naming 
 for the control plane mirrors the mount point of the filesystem.
 
 For instance, a filesystem mounted at `/mnt/fs1` would have its control plane
-located at `/var/lib/resiliate/_mnt_fs1`.
+located at `/var/run/resiliate/mnt_fs1`.  Names with spaces, underscores, or other special 
+characters get replaced by underscores `_`. For example for '/mnt/Home Directories', would
+become `/var/run/resiliate/Home_Directories`
 
 ### Key Directories and Files
 
@@ -75,6 +77,11 @@ The internal state and metrics of this plugin can be accessed through files
 within the /naive directory. This structure allows for modular and scalable
 integration of multiple plugins, each contributing to the overall cybersecurity
 posture of the Resiliate filesystem.
+
+### Core plugin
+
+The `core` plugin provides the basic set of metrics and functionalities for the
+Resiliate filesystem.
 
 ## CONFIGURATION
 
