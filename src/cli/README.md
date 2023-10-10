@@ -8,6 +8,6 @@ Your application data transparently becomes self-healing and self-defending.
 The following Sections provide in-depth information on the commands available.
 
 - [`rectify`](rectify.md) - Manage recovery points.
-- [`filesystem`](filesystem.md) - Configure AIFS filesystem.
-- [`config`](config.md) - Configure AIFS software and services.
-- [`storage`](storage.md) - Configure AIFS back-end storage.
+- [`filesystem`](filesystem.md) - Configure Resiliate filesystem.
+- [`config`](config.md) - Configure Resiliate software and services.
+- [`storage`](storage.md) - Configure Resiliate back-end storage.

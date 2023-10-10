@@ -2,7 +2,7 @@
 
 Let's `rectify` your data!
 
-To rescue your data from peril, you simply command AIFS to `rectify`
+To rescue your data from peril, you simply command Resiliate to `rectify`
   your mounted directory and your data will be recovered. There is
   also manual access if a more granular approach is necessary.
 

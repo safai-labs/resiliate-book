@@ -1,4 +1,4 @@
-# AIFS Rectify
+# Resiliate Rectify
 
 ## NAME
 
@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-AIFS Rectify commands allow you to search and rescue recovery options.
+Resiliate Rectify commands allow you to search and rescue recovery options.
 All deleted files and directories bring themselves back. All damaged
 files and directories self-repair to their last known good state across
 all memoirs.

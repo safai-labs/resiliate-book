@@ -1,9 +1,9 @@
 # Windows Workgroup
 
-## Using AIFS as a Simple Network Share
+## Using Resiliate as a Simple Network Share
 
 The easiest way to integrate with Microsoft Windows networks is to
-simply configure a samba service on your AIFS file-server with a
+simply configure a samba service on your Resiliate file-server with a
 selected number of common shares.
 
 This method is also good for creating an environment that will integrate

@@ -12,6 +12,13 @@ create-missing = true
 use-default-preprocessors = true
 extra-watch-dirs = []
 
+[preprocessor.index]
+
+[preprocessor.links]
+# turn-off = false
+
+[preprocessor.hide]
+
 [preprocessor.plantuml]
 plantuml-cmd = "/home/masud/.local/bin/plantuml"
 # plantuml-cmd="http://localhost:8080/plantuml"
@@ -20,10 +27,27 @@ use-data-uris=true
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
 
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+
+[preprocessor.theme]
+# un comment this to rebuild the theme
+turn-off = true
+pagetoc        = false
+pagetoc-width = "13%"
+sidebar-width = "300px"
+content-max-width = "1100px"
+
 [output]
 
 [output.html]
-additional-js = ["mermaid.min.js", "mermaid-init.js"]
+additional-js = [
+    "src/mermaid.min.js", "src/mermaid-init.js", "theme/pagetoc.js",
+    "src/external-links.js"
+]
+additional-css = ["theme/pagetoc.css"]
+
 
 # [output.html]
 # theme = "my-theme"

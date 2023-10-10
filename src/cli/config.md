@@ -1,4 +1,4 @@
-# AIFS Config
+# Resiliate Config
 
 ## NAME
 
@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-AIFS Config commands allow you to configure AIFS software and services
+Resiliate Config commands allow you to configure Resiliate software and services
 itself.
 
 ## USAGE
@@ -21,8 +21,8 @@ cefs config {COMMAND} [OPTIONS] {ARGS}
 |----------------------------------|------------------------------|
 |`aifs config [ -h `\|` --help ]`    |Prints this help message.     |
 |`aifs config [ -V `\|` --version ]` |Prints current version.       |
-|`aifs config upgrade`             |Upgrade AIFS software.        |
-|`aifs config upgradeable`         |Check for AIFS update.        |
+|`aifs config upgrade`             |Upgrade Resiliate software.        |
+|`aifs config upgradeable`         |Check for Resiliate update.        |
 |`aifs config kernel`              |Configure kernel module(s).   |
 |`aifs config license`             |Configure license key(s).     |
 |`aifs config build-info`          |Show Build Information.       |
@@ -31,19 +31,19 @@ cefs config {COMMAND} [OPTIONS] {ARGS}
 
 ### `upgrade`
 
-Upgrade AIFS software.
+Upgrade Resiliate software.
 
 #### `-c, --channel <channel>`
 
-Channel determines which build of AIFS to download, configure, and update.
+Channel determines which build of Resiliate to download, configure, and update.
 
 ### `upgradeable`
 
-Check for AIFS update.
+Check for Resiliate update.
 
 #### `-c, --channel <channel>`
 
-Channel determines which build of AIFS to download, configure, and update.
+Channel determines which build of Resiliate to download, configure, and update.
 
 ### `kernel`
 
