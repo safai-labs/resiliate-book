@@ -1,71 +1,69 @@
-# CEFS Filesystem
+# Resiliate Filesystem
 
 ## NAME
 
-`cefs filesystem` - The filesystem manager
+`aifs filesystem` - The filesystem manager
 
 ## DESCRIPTION
 
-CEFS Filesystem commands allow you to manage the organization of CEFS
+Resiliate Filesystem commands allow you to manage the organization of Resiliate
 file systems.
 
 ## USAGE
 
 ``` bash
-cefs filesystem {COMMAND} [OPTIONS] {ARGS}
+aifs {COMMAND} [OPTIONS] {ARGS}
 ```
 
 ## SYNOPSIS
 
-|COMMAND                               |SUMMARY                    |
-|--------------------------------------|---------------------------|
-|`cefs filesystem [ -h `\|` --help ]`    |Prints this help message.  |
-|`cefs filesystem [ -V `\|` --version ]` |Prints current version.    |
-|`cefs filesystem mount <src> <mp>`    |Mount a filesystem.        |
-|`cefs filesystem umount <mp>`         |Unmount a filesystem.      |
-|`cefs filesystem mkfs <target>`       |Create a CEFS filesystem.  |
+|COMMAND                               |SUMMARY                         |
+|--------------------------------------|--------------------------------|
+|`aifs mount <src> <mp>`                 |Mount a filesystem.             |
+|`aifs umount <mp>`                      |Unmount a filesystem.           |
+|`aifs mkfs <target>`                    |Create a Resiliate filesystem.  |
 
 ## OPTIONS
 
 ### `mount <source> <mount-point>`
 
-Mount CEFS filesystem.
-
-#### `-l, --log`
-
-Enable logging.
-
-#### `--dac`
-
-(UNSTABLE)Enable DAC security.
-
-#### `--use-unstable`
+Mount Resiliate filesystem.
 
 Verify usage of unstable features.
 
-#### `-o <opts>`
+#### `-o <MOUNT-OPTIONS>`
 
 Storage driver options.
 
-#### `--source-driver <source-driver>`
+MOUNT-OPTIONS is one of:
 
-Front-end source-driver.
+  control-plane=&lt;path&gt;        Path to where the control-plane directory.
 
-#### `--storage-driver <storage-driver>`
+  enforcement[=on|off]              Enable or disable enforcement
+
+  lib-dir=&lt;path&gt;              Path to the directory containing the plugins.
+
+
+#### `--thread <NUMBER>`
+
+Number of threads to use for the AiFs filesystem
+
+[default: 4]
+
 
 Back-end storage driver.
 
 ### `umount <mount-point>`
 
-Unmount a CEFS filesystem.
+Unmount a Resiliate filesystem.
 
 ### `mkfs <target>`
 
-Initialize (create) a new CEFS filesystem.
+Initialize (create) a new Resiliate filesystem.
 
 #### `-D, --driver <backend>`
 
-Backend-store determines what type of storage you want to use CEFS on.
+Backend-store determines what type of storage you want to use Resiliate on.
 (default: logfs) [possible values: flat-file, key-value]
 
 #### `-s, --source <source>`
@@ -73,6 +71,3 @@ Backend-store determines what type of storage you want to use CEFS on.
 Source directory or block device, used to populate the data.
 If not specified, no data is populated.
 
-#### `-o <options>`
-
-Advanced options. (see documentation for details)

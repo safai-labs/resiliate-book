@@ -815,7 +815,7 @@ statement of work mutually agreed by by both parties, as applicable
         github.com/safai-labs), if the claim of infringement or
         misappropriation does not allege with specificity that the
         infringement or misappropriation arises from the Platform
-        Services (as opposed to saf.ai CEFS or CENC software); (b) the
+        Services (as opposed to saf.ai AIFS or CENC software); (b) the
         combination, operation or use of the sāf.ai Services with
         equipment, devices, software or data (including without
         limitation your Confidential Information) not supplied by
