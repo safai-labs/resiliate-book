@@ -53,7 +53,6 @@ Resiliate™ is the overall package that bundles AiFS, utilities, CellFS kernel 
 module, and various other add-on packages. It is supported on various platforms,
 including x86_64 and IBM System Z.
 
-
 ```mermaid
 mindmap
   root((Resiliate))
@@ -72,7 +71,6 @@ mindmap
       AiKV["AiKV"]
         KVStore["KV Store"]
 ```
-
 
 ## Future Enhancements
 

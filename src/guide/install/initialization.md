@@ -7,7 +7,7 @@ the file system to run on.
 export AIFS_PARTITION=/dev/sdb1 AIFS_MOUNTDIR=/srv/aifs
 sudo aifs mkfs ${AIFS_PARTITION}
 sudo mkdir -p ${AIFS_MOUNTDIR}
-sudo aifs filesystem mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
+sudo aifs mount ${AIFS_PARTITION} ${AIFS_MOUNTDIR}
 ```
 
 You can now use `/srv/aifs` for your storage needs.

@@ -38,6 +38,9 @@
 
 ## Extra Information
 
+- [Troubleshooting](guide/troubleshooting.md)
+  - [Fixing broken Resiliate installation](guide/troubleshooting/fixing-broken-installation.md)
+
 - [Integrating with Windows Network](guide/windows/README.md)
   - [Windows Workgroup](guide/windows/workgroup.md)
   - [Windows Active Directory](guide/windows/active-directory.md)

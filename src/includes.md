@@ -47,15 +47,15 @@ ANCHOR_END: tos-agreement
 ## URLS
 
 ANCHOR: home-url
-<https://saf.ai>
+<https://get.saf.ai>
 ANCHOR_END: home-url
 
 ANCHOR: cefs-url
-<https://saf.ai/downloads/stable/cefs-init.sh>
+<https://get.saf.ai/downloads/stable/cefs-init.sh>
 ANCHOR_END: cefs-url
 
 ANCHOR: test-data-url
-<https://saf.ai/downloads/beta/test-data>
+<https://get.saf.ai/downloads/beta/test-data>
 ANCHOR_END: test-data-url
 
 ANCHOR: ransomware-url
