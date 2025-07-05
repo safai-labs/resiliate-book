@@ -6,67 +6,149 @@
 
 ## DESCRIPTION
 
-Resiliate Rectify commands allow you to search and rescue recovery options.
-All deleted files and directories bring themselves back. All damaged
-files and directories self-repair to their last known good state across
-all memoirs.
+Resiliate Rectify commands allow you to search and examine recovery options.
+The tool provides access to snapshots and memoirs stored in the CELLFS filesystem,
+enabling you to view recovery points and examine filesystem state at different times.
 
 ## USAGE
 
 ``` bash
-aifs rectify {PATH} [OPTIONS] {COMMAND} {ARGS}
+aifs rectify [OPTIONS] OPERATION <path>
 ```
 
 ## SYNOPSIS
 
-|COMMAND                               |Summary                                         |
-|--------------------------------------|------------------------------------------------|
-|`aifs rectify [ -a `\|` --all ]`        |Show all points.                                |
-|`aifs rectify [ -l `\|` --long ]`       |Show sāf points in long format.                 |
-|`aifs rectify [ -v `\|` --verbose ]`    |Show sāf points in verbose format.              |
-|`aifs rectify [ -h `\|` --help ]`       |Prints this help message.                       |
-|`aifs rectify [ -V `\|` --version ]`    |Prints current version.                         |
-|`aifs rectify <path> now`             |Rescue a filesystem immediately.                |
-|`aifs rectify <path> from`            |Provide ranged list of times or memory-blocks.  |
-|`aifs rectify <path> stores`          |Show recoverable stores.                        |
-|`aifs rectify <path> show`            |Show recovery points.                           |
-|`aifs rectify <path> memory <ID>`     |Optionally, provide a transient engram ID.      |
-|`aifs rectify <path> mark-pristine`   |Mark the current state as pristine.             |
+| OPERATION | Summary |
+|-----------|---------|
+| `snapshots` | Raw dump of snapshots on `<path>` |
+| `show` | Parsed + human timestamps of snapshots on `<path>` |
 
 ## OPTIONS
 
-### `<path> now`
+### Global Options
 
-Rescue a filesystem immediately.
+| Option | Description |
+|--------|-------------|
+| `--verbose`, `-v` | More detailed debugging output |
+| `--last=DURATION` | Time window (e.g., 30d = 30 days, 2h = 2 hours) |
+| `--from=DATE` | Start of the time window (ISO-8601 format) |
+| `--to=DATE` | End of the time window (ISO-8601 format) |
+| `--dry-run` | Show actions without modifying data |
+| `--depth=N` | Maximum N snapshots to show in range (default: 10) |
+| `--output=FILE` | Output file for operations |
+| `--help`, `-h` | Show help message |
 
-#### `-n, --dry-run`
+### Time Range Specification
 
-Prints recovery information without rescue.
+**Default time window**: 24 hours (last 24h)
 
-#### `-d, --depth <depth>`
+**Duration Examples** (for `--last`):
+- `30d` - 30 days
+- `2h` - 2 hours  
+- `1w` - 1 week
 
-Prints recovery information without rescue.
+**Date Examples** (for `--from`/`--to`):
+- `"2022-03-14"`
+- `"2022-03-14 15:00:00"`
+- `"yesterday"`
+- `"3 days ago"`
 
-### `<path> from`
+## OPERATIONS
 
-Provide ranged list of times or memory-blocks.
+### `snapshots`
 
-### `<path> stores`
+Display raw dump of snapshots on the specified path.
 
-Show recoverable storages.
+**Output Format:**
+```
+    CNO        DATE     TIME  MODE  FLG      BLKCNT       ICNT
+```
 
-#### `--porcelain`
+**Example:**
+```bash
+aifs rectify --last=7d snapshots /cefs-pool/aifs
+```
 
-Show stores in porcelain format.
+### `show` 
 
-### `<path> show`
+Display human-readable timestamps and snapshot information.
 
-Show recovery points.
+**Features:**
+- Shows snapshots in specified time window
+- Displays human-readable timestamps
+- Color-coded output for better readability
+- Safety limits to prevent infinite loops
 
-### `<path> memory <engram-id#>`
+**Example:**
+```bash
+aifs rectify --verbose --depth=20 show /cefs-pool/aifs
+```
 
-Optionally, provide a transient engram ID.
+**Output includes:**
+- Device information
+- Memoirs directory location
+- Depth limit
+- Numbered list of snapshots with timestamps
 
-### `<path> mark-pristine`
+## CONFIGURATION
 
-Mark the current state as pristine.
+The script uses the following configuration variables:
+
+| Variable | Default Value | Description |
+|----------|---------------|-------------|
+| `CELLFS_ROOT` | `/usr/share/cellfs` | Root directory for CELLFS binaries |
+| `MEMOIRS_DIR` | `/var/lib/resiliate/memoirs` | Directory containing memoirs |
+| `CE_NAIVE_PATH` | `/usr/bin/clamav-scan` | Path to antivirus scanner |
+| `AUDIT_LOG` | `/var/log/rectify-audit.*.log` | Audit log file location |
+
+## PATH HANDLING
+
+The tool includes special handling for specific paths:
+
+- `/cefs-pool/aifs` or `/cefs-pool/aifs/` maps to `/var/lib/resiliate/helm-test--cefs`
+- Block device for `/var/lib/resiliate/helm-test--cefs` is `/dev/mapper/helm-test--cefs`
+- Other paths are resolved using `realpath -e`
+
+## EXAMPLES
+
+### View last 30 days of snapshots
+```bash
+aifs rectify --last=30d snapshots /cefs-pool/aifs
+```
+
+### Show detailed snapshot information
+```bash
+aifs rectify --verbose show /cefs-pool/aifs
+```
+
+### View snapshots in custom date range
+```bash
+aifs rectify --from="2024-01-01" --to="2024-01-31" snapshots /cefs-pool/aifs
+```
+
+### Limit output to 5 most recent snapshots
+```bash
+aifs rectify --depth=5 show /cefs-pool/aifs
+```
+
+## ERROR HANDLING
+
+The script includes comprehensive error handling:
+
+- Path validation using `get_aifs_path()`
+- Block device detection using `get_block_device()`
+- Date parsing validation
+- Safety limits for snapshot processing
+- Detailed logging with different severity levels
+
+## EXIT CODES
+
+- `0` - Success
+- `32` - Error (invalid arguments, file not found, etc.)
+
+## NOTES
+
+- The script requires appropriate permissions to access CELLFS tools and device files
+- Time windows are inclusive of both start and end times
+- The script processes snapshots in reverse chronological order (newest first)
+- A safety limit of 1000 processed snapshots prevents infinite loops
