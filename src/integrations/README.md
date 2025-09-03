@@ -4,7 +4,7 @@ Resiliate™ provides powerful integration capabilities with third-party automat
 
 ## Available Integrations
 
-### [n8n Workflow Automation](n8n/README.md)
+### [n8n Workflow Automation](n8n/)
 
 The Resiliate Events n8n node enables integration with n8n workflow automation platform, providing:
 
