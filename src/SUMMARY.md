@@ -21,6 +21,10 @@
   - [storage](cli/storage.md)
   - [rectify](cli/rectify.md)
 
+- [Integrations](integrations/README.md)
+  - [n8n Workflow Automation](integrations/n8n/README.md)
+
+
 ## Reference Guide
 
 - [Cybernetic Engram Control Engine (CE)](ref/ce.md)
@@ -37,6 +41,9 @@
 ---
 
 ## Extra Information
+
+- [Troubleshooting](guide/troubleshooting.md)
+  - [Fixing broken Resiliate installation](guide/troubleshooting/fixing-broken-installation.md)
 
 - [Integrating with Windows Network](guide/windows/README.md)
   - [Windows Workgroup](guide/windows/workgroup.md)

@@ -55,7 +55,7 @@ become `/var/run/resiliate/Home_Directories`
   quarantining, based on the severity and nature of the detected activity.
 
 
-See [resiliate-cp-status](resiliate-cp-status.md) for more information.
+See [resiliate-cp-status](/ref/control-plane/resiliate-cp-status.html) for more information.
 
 
 #### `/threats` File Components
@@ -86,7 +86,7 @@ Resiliate filesystem.
 ## CONFIGURATION
 
 Control plane is configured through the corresponding ce configuration file.
-See [Cybernetic Engram Control Engine](../ce.md) for more information.
+See [Cybernetic Engram Control Engine](/ref/ce.html) for more information.
 
 ## USAGE
 
