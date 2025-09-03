@@ -11,8 +11,6 @@ build-dir = "book"
 create-missing = true
 use-default-preprocessors = true
 extra-watch-dirs = []
-# Post-build command to fix URLs
-post-build = ["./fix-base-urls.sh"]
 
 [preprocessor.index]
 
