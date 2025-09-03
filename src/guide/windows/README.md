@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Please go through the [Installation](../install/README.md) process
+Please go through the [Installation](/guide/install/index.html) process
 and configure a Resiliate file-server before continuing.
 
 It is recommended that you install Samba on the Linux server using:
