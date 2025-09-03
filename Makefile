@@ -2,6 +2,7 @@
 
 build:
 	mdbook build
+	./fix-base-urls.sh
 
 clean:
 	rm -rf book

@@ -64,3 +64,4 @@ additional-css = ["theme/pagetoc.css", "./mdbook-admonish.css"]
 # boost-hierarchy = 1      # ranking boost factor for matches in page names
 # boost-paragraph = 1      # ranking boost factor for matches in text
 # expand = true            # partial words will match longer terms
+site-url = "https://docs.saf.ai/"
