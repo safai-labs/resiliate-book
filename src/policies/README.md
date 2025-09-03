@@ -2,16 +2,16 @@
 
 ## Terms of Use
 
-- [Terms of Use](terms-of-use.md)
-- [Privacy Policy](privacy.md)
-- [EULA](eula.md)
-- [EULA for β-software](eula-beta.md)
+- [Terms of Use](/policies/terms-of-use.html)
+- [Privacy Policy](/policies/privacy.html)
+- [EULA](/policies/eula.html)
+- [EULA for β-software](/policies/eula-beta.html)
 
 ## Agreements and Policies
 
-- [Code of Conduct](conduct.md)
-- [Terms of Service](terms-of-service.md)
-- [Data Processing Agreement](dpa.md)
-- [Acceptable Use Policies](aup.md)
-- [Slavery Statement](slavery-statement.md)
-- [sāf.ai Partnership Program](var-partner.md)
+- [Code of Conduct](/policies/conduct.html)
+- [Terms of Service](/policies/terms-of-service.html)
+- [Data Processing Agreement](/policies/dpa.html)
+- [Acceptable Use Policies](/policies/aup.html)
+- [Slavery Statement](/policies/slavery-statement.html)
+- [sāf.ai Partnership Program](/policies/ppa.html)

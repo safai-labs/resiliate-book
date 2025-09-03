@@ -702,4 +702,4 @@ understood the terms of this DPA and agrees to be bound by them.
 
 ### ANNEXES and APPENDICES
 
-- [DPA Annex A](dpa-annex-a.md)
+- [DPA Annex A](/policies/dpa-annex-a.html)
