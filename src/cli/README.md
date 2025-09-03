@@ -7,7 +7,7 @@ Your application data transparently becomes self-healing and self-defending.
 
 The following Sections provide in-depth information on the commands available.
 
-- [`rectify`](rectify.md) - Manage recovery points.
-- [`filesystem`](filesystem.md) - Configure Resiliate filesystem.
-- [`config`](config.md) - Configure Resiliate software and services.
-- [`storage`](storage.md) - Configure Resiliate back-end storage.
+- [`rectify`](/cli/rectify.html) - Manage recovery points.
+- [`filesystem`](/cli/filesystem.html) - Configure Resiliate filesystem.
+- [`config`](/cli/config.html) - Configure Resiliate software and services.
+- [`storage`](/cli/storage.html) - Configure Resiliate back-end storage.

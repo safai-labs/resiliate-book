@@ -15,5 +15,5 @@ You can use Resiliate with Windows in a variety of ways. There are many
 configurations here, please choose the one that works for your
 particular use-case.
 
-- [Windows Workgroup](workgroup.md)
-- [Windows Active Directory Integration](active-directory.md)
+- [Windows Workgroup](/guide/windows/workgroup.html)
+- [Windows Active Directory Integration](/guide/windows/active-directory.html)
