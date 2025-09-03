@@ -54,8 +54,6 @@ additional-js = [
 	"src/external-links.js",
 ]
 additional-css = ["theme/pagetoc.css", "./mdbook-admonish.css"]
-site-url = "/"
-use-site-url-as-root = true
 
 # [output.html.search]
 # enable = true            # enables the search feature
